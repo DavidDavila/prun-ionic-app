@@ -1,0 +1,12 @@
+<section id="create-prun">
+  <article *ngIf="loginService.user$ | async; else notLogged">
+    <app-select-plants></app-select-plants>
+  </article>
+  <ng-template #notLogged>
+    <not-logged
+      [title]="'No lo tires, ¡Véndelo!'"
+      [img]="''"
+      [text]="'Inicia sesión para empezar a vender en PRUN'"
+    ></not-logged>
+  </ng-template>
+</section>

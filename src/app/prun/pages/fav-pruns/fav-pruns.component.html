@@ -1,0 +1,12 @@
+<section class="fav-pruns">
+  <article *ngIf="loginService.user$ | async; else notLogged">BLABAL</article>
+  <ng-template #notLogged>
+    <not-logged
+      [title]="'Podas que te gustan'"
+      [img]="''"
+      [text]="
+        'Desde aquí accederas a las podas que marques con el icono de Favoritos ❤️ '
+      "
+    ></not-logged>
+  </ng-template>
+</section>

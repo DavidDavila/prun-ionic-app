@@ -1,0 +1,95 @@
+@import "mixins.scss";
+
+$sizeImg: 32%;
+$sizeNavigate: calc(13% + vh(8));
+.plant-item {
+  display: inline-flex;
+  justify-content: center;
+  width: 100%;
+
+  height: 100%;
+
+  padding: vh(8) 0;
+  margin: 0;
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: 140% center;
+  position: relative;
+  &:after {
+    position: absolute;
+    content: "";
+    inset: 0;
+    z-index: 0;
+    background: rgb(255 255 255 / 83%);
+    transition: background 300ms;
+  }
+  &:active {
+    .desc-container p {
+      color: var(--ion-color-secondary);
+    }
+    &:after {
+      background: rgb(255 255 255 / 53%);
+    }
+  }
+  > * {
+    position: relative;
+    z-index: 1;
+  }
+
+  .img-container {
+    flex-basis: $sizeImg;
+    min-width: $sizeImg;
+    height: 100%;
+    padding-left: vw(16);
+    img {
+      width: 100%;
+      max-height: 38vw;
+      height: 100%;
+      object-fit: contain;
+    }
+  }
+  .desc-container {
+    min-width: calc(100% - $sizeImg - $sizeNavigate);
+    flex-basis: calc(100% - $sizeImg - $sizeNavigate);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: vh(16);
+
+    > span {
+      position: relative;
+      display: inline-flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      gap: vw(4);
+      margin-bottom: vh(4);
+      text-transform: capitalize;
+      > p {
+        font-size: vw(14);
+      }
+      > .line {
+        position: relative;
+        display: block;
+        width: 100%;
+        height: vh(2);
+        background-color: var(--ion-color-tertiary);
+      }
+    }
+    > p {
+      font-weight: 500;
+      text-transform: capitalize;
+      font-size: vw(17.6);
+      transition: color 300ms;
+    }
+  }
+  .nav-container {
+    padding-right: vh(16);
+    flex-basis: $sizeNavigate;
+    min-width: $sizeNavigate;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+}

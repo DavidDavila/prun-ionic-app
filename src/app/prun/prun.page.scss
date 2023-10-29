@@ -1,0 +1,6 @@
+main {
+  position: relative;
+  max-height: calc(100vh - var(--ion-menu-height) - var(--ion-footer-height));
+  overflow: auto;
+  top: var(--ion-menu-height);
+}

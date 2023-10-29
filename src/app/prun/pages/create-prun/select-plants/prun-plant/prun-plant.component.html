@@ -1,0 +1,21 @@
+<div class="prun-plant" [class.selected]="checked">
+  <div class="input-container">
+    <ul>
+      <li>
+        <input [(ngModel)]="checked" [id]="name" type="checkbox" />
+        <label [for]="name">
+          <img [src]="'/assets' + img" />
+          <span>{{ name }}</span>
+        </label>
+      </li>
+    </ul>
+  </div>
+
+  <div class="quantity" *ngIf="checked">
+    <span>Cantidad</span>
+    <div>
+      <input type="number" value="1" name="quantity" id="" />
+      <span> </span>
+    </div>
+  </div>
+</div>

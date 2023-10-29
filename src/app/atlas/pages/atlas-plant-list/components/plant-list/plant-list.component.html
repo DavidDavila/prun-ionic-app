@@ -1,0 +1,46 @@
+<!-- <prun-filter></prun-filter> -->
+
+<select-letter-content-scrollable>
+  <header-page [title]="'Atlas'">
+    <div class="search-container">
+      <search-container
+        [searchText]="searchText"
+        [placeholder]="'Busca tu planta'"
+        (onSearchTextChanged)="onSearchTextChanged($event)"
+      ></search-container>
+      <filter-button
+        [filterAside]="filters"
+        (onFilterChanged)="onFilterChanged($event)"
+      ></filter-button>
+    </div>
+    <div class="filter-container"></div>
+  </header-page>
+  <ul id="plant-list">
+    <ng-container
+      *ngFor="let item of plantList | groupByFirstLetter | keyvalue"
+    >
+      <li
+        [id]="'letter-' + item.key"
+        [ngClass]="{ 'height-0': !item.value.length }"
+      >
+        <ul>
+          <ng-container *ngFor="let plant of item.value">
+            <li>
+              <plant-item-box
+                [plant]="{
+                  name: plant.name,
+                  tipo: plant.desc.tipo,
+                  img: {
+                    presentation: plant.imgs[1],
+                    background: plant.imgs[0]
+                  }
+                }"
+              >
+              </plant-item-box>
+            </li>
+          </ng-container>
+        </ul>
+      </li>
+    </ng-container>
+  </ul>
+</select-letter-content-scrollable>

@@ -1,0 +1,72 @@
+@import "mixins";
+.filter-aside {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  margin: 0;
+  animation-name: fromRight;
+  animation-duration: 600ms;
+  > * {
+    position: relative;
+    z-index: 3;
+  }
+  > .layer-close {
+    animation-name: opacity;
+    opacity: 0;
+    animation-fill-mode: forwards;
+    animation-duration: 600ms;
+    animation-delay: 300ms;
+    // background: rgba(var(--ion-color-medium-rgb), 0.05);
+    position: fixed;
+    z-index: 2;
+    inset: 0;
+  }
+  > section {
+    box-shadow: 0 0 vw(180) 0px rgba(var(--ion-color-medium-rgb), 0.2);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    z-index: 3;
+    width: 50%;
+    padding: vw(16) vw(16) 0;
+    background: white;
+
+    > header {
+      height: vh(56);
+      margin-bottom: vh(16);
+
+      position: relative;
+
+      > a.close {
+        display: inline-flex;
+        justify-content: flex-end;
+        transform: rotate(180deg);
+        align-items: center;
+
+        font-weight: bolder;
+        > span {
+        }
+      }
+    }
+    h3 {
+      margin-bottom: vh(16);
+    }
+    > ul {
+      flex-basis: 100%;
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      gap: vh(16);
+      overflow: auto;
+      padding-bottom: vh(16);
+      li {
+        width: 100%;
+      }
+    }
+  }
+}

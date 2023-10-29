@@ -1,0 +1,58 @@
+<div
+  class="filter-aside"
+  *ngIf="_filterService.isInView | async"
+  [@slideOut]
+  [@slideIn]
+>
+  <div
+    class="layer-close"
+    [@opacityOut]
+    (click)="_filterService.toogleFilter()"
+  ></div>
+  <section>
+    <header>
+      <button>
+        <span
+          class="icon icon-android-close"
+          (click)="_filterService.toogleFilter()"
+        ></span>
+      </button>
+    </header>
+    <h3>Filtros</h3>
+
+    <ul>
+      <ng-container *ngFor="let prop of filter.order">
+        <li>
+          <div class="input-container">
+            <label>{{ prop }}</label>
+            <ul>
+              <ng-container *ngFor="let input of filter.filters[prop]">
+                <li [ngSwitch]="input.type">
+                  <ng-container *ngSwitchCase="'checkbox'">
+                    <input
+                      #checkBox
+                      [type]="input.type"
+                      [checked]="input.value"
+                      (change)="
+                    onFilterChanged.emit({
+                      prop,
+                      label:input.label,
+                      event:$event,
+                      value:input.defaultValue || checkBox.checked
+                    })
+                  "
+                      [id]="prop + input.label + input.type"
+                    />
+                    <label [for]="prop + input.label + input.type">{{
+                      input.label
+                    }}</label>
+                  </ng-container>
+                </li>
+              </ng-container>
+            </ul>
+          </div>
+        </li>
+      </ng-container>
+    </ul>
+  </section>
+</div>

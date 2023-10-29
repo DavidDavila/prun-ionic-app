@@ -1,0 +1,2488 @@
+{
+  "Aegagropila linnaei": {
+    "imgs": [
+      "/plants/img/Aegagropila linnaei/0.png",
+      "/plants/img/Aegagropila linnaei/1.png",
+      "/plants/img/Aegagropila linnaei/2.png",
+      "/plants/img/Aegagropila linnaei/5.png",
+      "/plants/img/Aegagropila linnaei/6.png"
+    ],
+    "desc": {
+      "tipo": "musgo",
+      "origen": "cosmopolitan",
+      "crecimiento": "lento",
+      "altura": "3 - 10 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Alternanthera reineckii Mini": {
+    "imgs": [
+      "/plants/img/Alternanthera reineckii Mini/0.png",
+      "/plants/img/Alternanthera reineckii Mini/1.png",
+      "/plants/img/Alternanthera reineckii Mini/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "cultivar",
+      "crecimiento": "medio",
+      "altura": "5 - 10 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Alternanthera reineckii Pink": {
+    "imgs": [
+      "/plants/img/Alternanthera reineckii Pink/0.png",
+      "/plants/img/Alternanthera reineckii Pink/1.png",
+      "/plants/img/Alternanthera reineckii Pink/2.png",
+      "/plants/img/Alternanthera reineckii Pink/6.png",
+      "/plants/img/Alternanthera reineckii Pink/7.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "south america",
+      "crecimiento": "medio",
+      "altura": "20 - 30 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Alternanthera reineckii Rosanervig": {
+    "imgs": [
+      "/plants/img/Alternanthera reineckii Rosanervig/0.png",
+      "/plants/img/Alternanthera reineckii Rosanervig/1.png",
+      "/plants/img/Alternanthera reineckii Rosanervig/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "cultivar",
+      "crecimiento": "medio",
+      "altura": "5 - 20 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Anubias barteri caladiifolia": {
+    "imgs": [
+      "/plants/img/Anubias barteri caladiifolia/0.png",
+      "/plants/img/Anubias barteri caladiifolia/1.png",
+      "/plants/img/Anubias barteri caladiifolia/2.png"
+    ],
+    "desc": {
+      "tipo": "rizoma",
+      "origen": "cultivar",
+      "crecimiento": "lento",
+      "altura": "10 - 15 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Anubias barteri Mini Coin": {
+    "imgs": [
+      "/plants/img/Anubias barteri Mini Coin/0.png",
+      "/plants/img/Anubias barteri Mini Coin/1.png",
+      "/plants/img/Anubias barteri Mini Coin/2.png"
+    ],
+    "desc": {
+      "tipo": "rizoma",
+      "origen": "cultivar",
+      "crecimiento": "lento",
+      "altura": "3 - 10 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Anubias barteri nana": {
+    "imgs": [
+      "/plants/img/Anubias barteri nana/0.png",
+      "/plants/img/Anubias barteri nana/1.png",
+      "/plants/img/Anubias barteri nana/2.png"
+    ],
+    "desc": {
+      "tipo": "rizoma",
+      "origen": "africa",
+      "crecimiento": "lento",
+      "altura": "5 - 15 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Anubias barteri Petite": {
+    "imgs": [
+      "/plants/img/Anubias barteri Petite/0.png",
+      "/plants/img/Anubias barteri Petite/1.png",
+      "/plants/img/Anubias barteri Petite/2.png"
+    ],
+    "desc": {
+      "tipo": "rizoma",
+      "origen": "cultivar",
+      "crecimiento": "lento",
+      "altura": "3 - 5 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Anubias barteri sp": {
+    "imgs": [
+      "/plants/img/Anubias barteri sp/0.png",
+      "/plants/img/Anubias barteri sp/1.png"
+    ],
+    "desc": {
+      "tipo": "rizoma",
+      "origen": "africa",
+      "crecimiento": "lento",
+      "altura": "5 - 15 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Anubias barteri var. barteri": {
+    "imgs": [
+      "/plants/img/Anubias barteri var. barteri/0.png",
+      "/plants/img/Anubias barteri var. barteri/1.png",
+      "/plants/img/Anubias barteri var. barteri/2.png"
+    ],
+    "desc": {
+      "tipo": "rizoma",
+      "origen": "africa",
+      "crecimiento": "lento",
+      "altura": "20 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Anubias barteri var. caladiifolia": {
+    "imgs": [
+      "/plants/img/Anubias barteri var. caladiifolia/0.png",
+      "/plants/img/Anubias barteri var. caladiifolia/1.png",
+      "/plants/img/Anubias barteri var. caladiifolia/2.png",
+      "/plants/img/Anubias barteri var. caladiifolia/6.png",
+      "/plants/img/Anubias barteri var. caladiifolia/7.png"
+    ],
+    "desc": {
+      "tipo": "rizoma",
+      "origen": "cultivar",
+      "crecimiento": "lento",
+      "altura": "10 - 15 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Anubias barteri var. Coffeifolia": {
+    "imgs": [
+      "/plants/img/Anubias barteri var. Coffeifolia/0.png",
+      "/plants/img/Anubias barteri var. Coffeifolia/1.png",
+      "/plants/img/Anubias barteri var. Coffeifolia/2.png"
+    ],
+    "desc": {
+      "tipo": "rizoma",
+      "origen": "cultivar",
+      "crecimiento": "lento",
+      "altura": "15 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Anubias barteri var. glabra": {
+    "imgs": [
+      "/plants/img/Anubias barteri var. glabra/0.png",
+      "/plants/img/Anubias barteri var. glabra/1.png",
+      "/plants/img/Anubias barteri var. glabra/2.png"
+    ],
+    "desc": {
+      "tipo": "rizoma",
+      "origen": "africa",
+      "crecimiento": "lento",
+      "altura": "10 - 15 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Anubias barteri var. nana": {
+    "imgs": [
+      "/plants/img/Anubias barteri var. nana/0.png",
+      "/plants/img/Anubias barteri var. nana/1.png",
+      "/plants/img/Anubias barteri var. nana/11.png",
+      "/plants/img/Anubias barteri var. nana/12.png",
+      "/plants/img/Anubias barteri var. nana/15.png",
+      "/plants/img/Anubias barteri var. nana/16.png",
+      "/plants/img/Anubias barteri var. nana/21.png",
+      "/plants/img/Anubias barteri var. nana/22.png",
+      "/plants/img/Anubias barteri var. nana/6.png",
+      "/plants/img/Anubias barteri var. nana/7.png"
+    ],
+    "desc": {
+      "tipo": "rizoma",
+      "origen": "africa",
+      "crecimiento": "lento",
+      "altura": "5 - 15 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Anubias barteri var. nana Large": {
+    "imgs": [
+      "/plants/img/Anubias barteri var. nana Large/0.png",
+      "/plants/img/Anubias barteri var. nana Large/1.png",
+      "/plants/img/Anubias barteri var. nana Large/2.png"
+    ],
+    "desc": {
+      "tipo": "rizoma",
+      "origen": "africa",
+      "crecimiento": "lento",
+      "altura": "5 - 15 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Anubias gracilis": {
+    "imgs": [
+      "/plants/img/Anubias gracilis/0.png",
+      "/plants/img/Anubias gracilis/1.png",
+      "/plants/img/Anubias gracilis/2.png"
+    ],
+    "desc": {
+      "tipo": "rizoma",
+      "origen": "africa",
+      "crecimiento": "lento",
+      "altura": "10 - 20 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Aponogeton boivinianus": {
+    "imgs": [
+      "/plants/img/Aponogeton boivinianus/0.png",
+      "/plants/img/Aponogeton boivinianus/1.png",
+      "/plants/img/Aponogeton boivinianus/2.png"
+    ],
+    "desc": {
+      "tipo": "bulbo",
+      "origen": "africa",
+      "crecimiento": "rápido",
+      "altura": "20 - 30 cm",
+      "luz": "media",
+      "co2": "bajo",
+      "dificultad": "media"
+    }
+  },
+  "Aponogeton longiplumulosus": {
+    "imgs": [
+      "/plants/img/Aponogeton longiplumulosus/0.png",
+      "/plants/img/Aponogeton longiplumulosus/1.png",
+      "/plants/img/Aponogeton longiplumulosus/2.png"
+    ],
+    "desc": {
+      "tipo": "bulbo",
+      "origen": "africa",
+      "crecimiento": "medio",
+      "altura": "20 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "media"
+    }
+  },
+  "Aponogeton madagascariensis": {
+    "imgs": [
+      "/plants/img/Aponogeton madagascariensis/0.png",
+      "/plants/img/Aponogeton madagascariensis/1.png",
+      "/plants/img/Aponogeton madagascariensis/2.png"
+    ],
+    "desc": {
+      "tipo": "bulbo",
+      "origen": "africa",
+      "crecimiento": "medio",
+      "altura": "20 - 30 cm",
+      "luz": "media",
+      "co2": "bajo",
+      "dificultad": "media"
+    }
+  },
+  "Aponogeton ulvaceus": {
+    "imgs": [
+      "/plants/img/Aponogeton ulvaceus/0.png",
+      "/plants/img/Aponogeton ulvaceus/1.png",
+      "/plants/img/Aponogeton ulvaceus/2.png"
+    ],
+    "desc": {
+      "tipo": "bulbo",
+      "origen": "africa",
+      "crecimiento": "rápido",
+      "altura": "20 - 30 cm",
+      "luz": "media",
+      "co2": "bajo",
+      "dificultad": "media"
+    }
+  },
+  "Bacopa australis": {
+    "imgs": [
+      "/plants/img/Bacopa australis/0.png",
+      "/plants/img/Bacopa australis/1.png",
+      "/plants/img/Bacopa australis/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "south america",
+      "crecimiento": "rápido",
+      "altura": "5 - 30 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Bacopa caroliniana": {
+    "imgs": [
+      "/plants/img/Bacopa caroliniana/0.png",
+      "/plants/img/Bacopa caroliniana/1.png",
+      "/plants/img/Bacopa caroliniana/11.png",
+      "/plants/img/Bacopa caroliniana/12.png",
+      "/plants/img/Bacopa caroliniana/15.png",
+      "/plants/img/Bacopa caroliniana/16.png",
+      "/plants/img/Bacopa caroliniana/2.png",
+      "/plants/img/Bacopa caroliniana/6.png",
+      "/plants/img/Bacopa caroliniana/7.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "north america",
+      "crecimiento": "lento",
+      "altura": "20 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Bacopa monnieri Compact": {
+    "imgs": [
+      "/plants/img/Bacopa monnieri Compact/0.png",
+      "/plants/img/Bacopa monnieri Compact/1.png",
+      "/plants/img/Bacopa monnieri Compact/3.png",
+      "/plants/img/Bacopa monnieri Compact/6.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "cultivar",
+      "crecimiento": "rápido",
+      "altura": "3 - 10 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Blyxa japonica": {
+    "imgs": [
+      "/plants/img/Blyxa japonica/0.png",
+      "/plants/img/Blyxa japonica/1.png",
+      "/plants/img/Blyxa japonica/2.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "10 - 20 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Bolbitis heudelotii": {
+    "imgs": [
+      "/plants/img/Bolbitis heudelotii/0.png",
+      "/plants/img/Bolbitis heudelotii/1.png",
+      "/plants/img/Bolbitis heudelotii/11.png",
+      "/plants/img/Bolbitis heudelotii/2.png",
+      "/plants/img/Bolbitis heudelotii/3.png",
+      "/plants/img/Bolbitis heudelotii/5.png",
+      "/plants/img/Bolbitis heudelotii/6.png"
+    ],
+    "desc": {
+      "tipo": "rizoma",
+      "origen": "africa",
+      "crecimiento": "lento",
+      "altura": "15 - 30 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Bucephalandra Kedagang": {
+    "imgs": [
+      "/plants/img/Bucephalandra Kedagang/0.png",
+      "/plants/img/Bucephalandra Kedagang/1.png",
+      "/plants/img/Bucephalandra Kedagang/2.png",
+      "/plants/img/Bucephalandra Kedagang/3.png",
+      "/plants/img/Bucephalandra Kedagang/6.png"
+    ],
+    "desc": {
+      "tipo": "rizoma",
+      "origen": "asia",
+      "crecimiento": "lento",
+      "altura": "10 - 20 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Bucephalandra pygmaea Bukit Kelam": {
+    "imgs": [
+      "/plants/img/Bucephalandra pygmaea Bukit Kelam/0.png",
+      "/plants/img/Bucephalandra pygmaea Bukit Kelam/1.png",
+      "/plants/img/Bucephalandra pygmaea Bukit Kelam/2.png",
+      "/plants/img/Bucephalandra pygmaea Bukit Kelam/3.png",
+      "/plants/img/Bucephalandra pygmaea Bukit Kelam/6.png"
+    ],
+    "desc": {
+      "tipo": "rizoma",
+      "origen": "asia",
+      "crecimiento": "lento",
+      "altura": "5 - 10 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Bucephalandra pygmaea Wavy Green": {
+    "imgs": [
+      "/plants/img/Bucephalandra pygmaea Wavy Green/0.png",
+      "/plants/img/Bucephalandra pygmaea Wavy Green/1.png",
+      "/plants/img/Bucephalandra pygmaea Wavy Green/2.png"
+    ],
+    "desc": {
+      "tipo": "rizoma",
+      "origen": "asia",
+      "crecimiento": "lento",
+      "altura": "5 - 10 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Bucephalandra sp Red": {
+    "imgs": [
+      "/plants/img/Bucephalandra sp Red/0.png",
+      "/plants/img/Bucephalandra sp Red/1.png",
+      "/plants/img/Bucephalandra sp Red/2.png"
+    ],
+    "desc": {
+      "tipo": "rizoma",
+      "origen": "asia",
+      "crecimiento": "lento",
+      "altura": "5 - 10 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Cabomba aquatica": {
+    "imgs": [
+      "/plants/img/Cabomba aquatica/0.png",
+      "/plants/img/Cabomba aquatica/1.png",
+      "/plants/img/Cabomba aquatica/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "south america",
+      "crecimiento": "rápido",
+      "altura": "20 - 30 cm",
+      "luz": "media",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Cardamine lyrata": {
+    "imgs": [
+      "/plants/img/Cardamine lyrata/0.png",
+      "/plants/img/Cardamine lyrata/1.png",
+      "/plants/img/Cardamine lyrata/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "asia",
+      "crecimiento": "rápido",
+      "altura": "20 - 30 cm",
+      "luz": "baja",
+      "co2": "medio",
+      "dificultad": "fácil"
+    }
+  },
+  "Ceratophyllum demersum Foxtail": {
+    "imgs": [
+      "/plants/img/Ceratophyllum demersum Foxtail/0.png",
+      "/plants/img/Ceratophyllum demersum Foxtail/1.png",
+      "/plants/img/Ceratophyllum demersum Foxtail/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "cosmopolitan",
+      "crecimiento": "rápido",
+      "altura": "5 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Ceratopteris thalictroides": {
+    "imgs": [
+      "/plants/img/Ceratopteris thalictroides/0.png",
+      "/plants/img/Ceratopteris thalictroides/1.png",
+      "/plants/img/Ceratopteris thalictroides/2.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "asia",
+      "crecimiento": "rápido",
+      "altura": "15 - 30 cm",
+      "luz": "media",
+      "co2": "bajo",
+      "dificultad": "media"
+    }
+  },
+  "Crinum calamistratum": {
+    "imgs": [
+      "/plants/img/Crinum calamistratum/0.png",
+      "/plants/img/Crinum calamistratum/1.png",
+      "/plants/img/Crinum calamistratum/2.png"
+    ],
+    "desc": {
+      "tipo": "bulbo",
+      "origen": "africa",
+      "crecimiento": "lento",
+      "altura": "20 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Crinum thaianum": {
+    "imgs": [
+      "/plants/img/Crinum thaianum/0.png",
+      "/plants/img/Crinum thaianum/1.png",
+      "/plants/img/Crinum thaianum/2.png"
+    ],
+    "desc": {
+      "tipo": "bulbo",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "20 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Cryptocoryne albida Brown": {
+    "imgs": [
+      "/plants/img/Cryptocoryne albida Brown/0.png",
+      "/plants/img/Cryptocoryne albida Brown/1.png",
+      "/plants/img/Cryptocoryne albida Brown/2.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "asia",
+      "crecimiento": "lento",
+      "altura": "5 - 15 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Cryptocoryne beckettii Petchii": {
+    "imgs": [
+      "/plants/img/Cryptocoryne beckettii Petchii/0.png",
+      "/plants/img/Cryptocoryne beckettii Petchii/1.png",
+      "/plants/img/Cryptocoryne beckettii Petchii/12.png",
+      "/plants/img/Cryptocoryne beckettii Petchii/3.png",
+      "/plants/img/Cryptocoryne beckettii Petchii/6.png",
+      "/plants/img/Cryptocoryne beckettii Petchii/7.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "10 - 15 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Cryptocoryne crispatula": {
+    "imgs": [
+      "/plants/img/Cryptocoryne crispatula/0.png",
+      "/plants/img/Cryptocoryne crispatula/1.png",
+      "/plants/img/Cryptocoryne crispatula/2.png",
+      "/plants/img/Cryptocoryne crispatula/3.png",
+      "/plants/img/Cryptocoryne crispatula/6.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "20 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Cryptocoryne parva": {
+    "imgs": [
+      "/plants/img/Cryptocoryne parva/0.png",
+      "/plants/img/Cryptocoryne parva/1.png",
+      "/plants/img/Cryptocoryne parva/2.png",
+      "/plants/img/Cryptocoryne parva/3.png",
+      "/plants/img/Cryptocoryne parva/4.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "asia",
+      "crecimiento": "lento",
+      "altura": "5 - 10 cm",
+      "luz": "media",
+      "co2": "bajo",
+      "dificultad": "media"
+    }
+  },
+  "Cryptocoryne undulata Broad Leaf": {
+    "imgs": [
+      "/plants/img/Cryptocoryne undulata Broad Leaf/0.png",
+      "/plants/img/Cryptocoryne undulata Broad Leaf/1.png",
+      "/plants/img/Cryptocoryne undulata Broad Leaf/2.png",
+      "/plants/img/Cryptocoryne undulata Broad Leaf/5.png",
+      "/plants/img/Cryptocoryne undulata Broad Leaf/6.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "15 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Cryptocoryne usteriana": {
+    "imgs": [
+      "/plants/img/Cryptocoryne usteriana/0.png",
+      "/plants/img/Cryptocoryne usteriana/1.png",
+      "/plants/img/Cryptocoryne usteriana/2.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "asia",
+      "crecimiento": "lento",
+      "altura": "20 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Cryptocoryne wendtii Green": {
+    "imgs": [
+      "/plants/img/Cryptocoryne wendtii Green/0.png",
+      "/plants/img/Cryptocoryne wendtii Green/1.png",
+      "/plants/img/Cryptocoryne wendtii Green/2.png",
+      "/plants/img/Cryptocoryne wendtii Green/3.png",
+      "/plants/img/Cryptocoryne wendtii Green/7.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "10 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Cryptocoryne wendtii Mi Oya": {
+    "imgs": [
+      "/plants/img/Cryptocoryne wendtii Mi Oya/0.png",
+      "/plants/img/Cryptocoryne wendtii Mi Oya/1.png",
+      "/plants/img/Cryptocoryne wendtii Mi Oya/2.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "asia",
+      "crecimiento": "lento",
+      "altura": "20 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Cryptocoryne wendtii Tropica": {
+    "imgs": [
+      "/plants/img/Cryptocoryne wendtii Tropica/0.png",
+      "/plants/img/Cryptocoryne wendtii Tropica/1.png",
+      "/plants/img/Cryptocoryne wendtii Tropica/2.png",
+      "/plants/img/Cryptocoryne wendtii Tropica/5.png",
+      "/plants/img/Cryptocoryne wendtii Tropica/6.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "10 - 20 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Cryptocoryne x willisii": {
+    "imgs": [
+      "/plants/img/Cryptocoryne x willisii/0.png",
+      "/plants/img/Cryptocoryne x willisii/1.png",
+      "/plants/img/Cryptocoryne x willisii/3.png",
+      "/plants/img/Cryptocoryne x willisii/6.png",
+      "/plants/img/Cryptocoryne x willisii/7.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "asia",
+      "crecimiento": "lento",
+      "altura": "10 - 20 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Cyperus helferi": {
+    "imgs": [
+      "/plants/img/Cyperus helferi/0.png",
+      "/plants/img/Cyperus helferi/1.png",
+      "/plants/img/Cyperus helferi/2.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "asia",
+      "crecimiento": "lento",
+      "altura": "20 - 30 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Echinodorus Aquartica": {
+    "imgs": [
+      "/plants/img/Echinodorus Aquartica/0.png",
+      "/plants/img/Echinodorus Aquartica/1.png",
+      "/plants/img/Echinodorus Aquartica/2.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "cultivar",
+      "crecimiento": "medio",
+      "altura": "10 - 20 cm",
+      "luz": "media",
+      "co2": "bajo",
+      "dificultad": "media"
+    }
+  },
+  "Echinodorus Barthii": {
+    "imgs": [
+      "/plants/img/Echinodorus Barthii/0.png",
+      "/plants/img/Echinodorus Barthii/1.png",
+      "/plants/img/Echinodorus Barthii/2.png",
+      "/plants/img/Echinodorus Barthii/6.png",
+      "/plants/img/Echinodorus Barthii/7.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "cultivar",
+      "crecimiento": "medio",
+      "altura": "20 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Echinodorus cordifolius Fluitans": {
+    "imgs": [
+      "/plants/img/Echinodorus cordifolius Fluitans/0.png",
+      "/plants/img/Echinodorus cordifolius Fluitans/1.png",
+      "/plants/img/Echinodorus cordifolius Fluitans/2.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "north america",
+      "crecimiento": "medio",
+      "altura": "20 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Echinodorus grisebachii Bleherae": {
+    "imgs": [
+      "/plants/img/Echinodorus grisebachii Bleherae/0.png",
+      "/plants/img/Echinodorus grisebachii Bleherae/1.png",
+      "/plants/img/Echinodorus grisebachii Bleherae/2.png",
+      "/plants/img/Echinodorus grisebachii Bleherae/3.png",
+      "/plants/img/Echinodorus grisebachii Bleherae/8.png",
+      "/plants/img/Echinodorus grisebachii Bleherae/9.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "south america",
+      "crecimiento": "rápido",
+      "altura": "20 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Echinodorus Ozelot": {
+    "imgs": [
+      "/plants/img/Echinodorus Ozelot/0.png",
+      "/plants/img/Echinodorus Ozelot/1.png",
+      "/plants/img/Echinodorus Ozelot/4.png",
+      "/plants/img/Echinodorus Ozelot/5.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "cultivar",
+      "crecimiento": "medio",
+      "altura": "20 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Echinodorus Ozelot Green": {
+    "imgs": [
+      "/plants/img/Echinodorus Ozelot Green/0.png",
+      "/plants/img/Echinodorus Ozelot Green/1.png",
+      "/plants/img/Echinodorus Ozelot Green/2.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "cultivar",
+      "crecimiento": "medio",
+      "altura": "20 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Echinodorus palifolius": {
+    "imgs": [
+      "/plants/img/Echinodorus palifolius/0.png",
+      "/plants/img/Echinodorus palifolius/1.png",
+      "/plants/img/Echinodorus palifolius/4.png",
+      "/plants/img/Echinodorus palifolius/5.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "south america",
+      "crecimiento": "medio",
+      "altura": "20 - 30 cm",
+      "luz": "media",
+      "co2": "bajo",
+      "dificultad": "media"
+    }
+  },
+  "Echinodorus Red Diamond": {
+    "imgs": [
+      "/plants/img/Echinodorus Red Diamond/0.png",
+      "/plants/img/Echinodorus Red Diamond/1.png",
+      "/plants/img/Echinodorus Red Diamond/2.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "cultivar",
+      "crecimiento": "medio",
+      "altura": "15 - 20 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Echinodorus Reni": {
+    "imgs": [
+      "/plants/img/Echinodorus Reni/0.png",
+      "/plants/img/Echinodorus Reni/1.png",
+      "/plants/img/Echinodorus Reni/10.png",
+      "/plants/img/Echinodorus Reni/2.png",
+      "/plants/img/Echinodorus Reni/3.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "cultivar",
+      "crecimiento": "medio",
+      "altura": "15 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Echinodorus Rosé": {
+    "imgs": [
+      "/plants/img/Echinodorus Rosé/0.png",
+      "/plants/img/Echinodorus Rosé/1.png",
+      "/plants/img/Echinodorus Rosé/2.png",
+      "/plants/img/Echinodorus Rosé/6.png",
+      "/plants/img/Echinodorus Rosé/7.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "cultivar",
+      "crecimiento": "medio",
+      "altura": "20 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Egeria densa": {
+    "imgs": [
+      "/plants/img/Egeria densa/0.png",
+      "/plants/img/Egeria densa/1.png",
+      "/plants/img/Egeria densa/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "cosmopolitan",
+      "crecimiento": "rápido",
+      "altura": "20 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Elatine hydropiper": {
+    "imgs": [
+      "/plants/img/Elatine hydropiper/0.png",
+      "/plants/img/Elatine hydropiper/1.png",
+      "/plants/img/Elatine hydropiper/2.png"
+    ],
+    "desc": {
+      "tipo": "tapizante",
+      "origen": "europe/asia",
+      "crecimiento": "medio",
+      "altura": "3 - 5 cm",
+      "luz": "alta",
+      "co2": "alto",
+      "dificultad": "difícil"
+    }
+  },
+  "Eleocharis acicularis": {
+    "imgs": [
+      "/plants/img/Eleocharis acicularis/0.png",
+      "/plants/img/Eleocharis acicularis/1.png",
+      "/plants/img/Eleocharis acicularis/2.png",
+      "/plants/img/Eleocharis acicularis/6.png",
+      "/plants/img/Eleocharis acicularis/7.png"
+    ],
+    "desc": {
+      "tipo": "estolones",
+      "origen": "cosmopolitan",
+      "crecimiento": "medio",
+      "altura": "10 - 15 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Eleocharis montevidensis": {
+    "imgs": [
+      "/plants/img/Eleocharis montevidensis/0.png",
+      "/plants/img/Eleocharis montevidensis/1.png",
+      "/plants/img/Eleocharis montevidensis/2.png"
+    ],
+    "desc": {
+      "tipo": "estolones",
+      "origen": "north america",
+      "crecimiento": "medio",
+      "altura": "20 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Eleocharis parvula": {
+    "imgs": [
+      "/plants/img/Eleocharis parvula/0.png",
+      "/plants/img/Eleocharis parvula/1.png",
+      "/plants/img/Eleocharis parvula/2.png"
+    ],
+    "desc": {
+      "tipo": "tapizante",
+      "origen": "cosmopolitan",
+      "crecimiento": "rápido",
+      "altura": "3 - 10 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Eleocharis pusilla": {
+    "imgs": [
+      "/plants/img/Eleocharis pusilla/0.png",
+      "/plants/img/Eleocharis pusilla/1.png",
+      "/plants/img/Eleocharis pusilla/2.png"
+    ],
+    "desc": {
+      "tipo": "tapizante",
+      "origen": "cultivar",
+      "crecimiento": "lento",
+      "altura": "3 - 5 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Eriocaulon cinereum": {
+    "imgs": [
+      "/plants/img/Eriocaulon cinereum/0.png",
+      "/plants/img/Eriocaulon cinereum/1.png",
+      "/plants/img/Eriocaulon cinereum/2.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "cosmopolitan",
+      "crecimiento": "lento",
+      "altura": "3 - 10 cm",
+      "luz": "alta",
+      "co2": "alto",
+      "dificultad": "difícil"
+    }
+  },
+  "Fissidens fontanus": {
+    "imgs": [
+      "/plants/img/Fissidens fontanus/0.png",
+      "/plants/img/Fissidens fontanus/1.png",
+      "/plants/img/Fissidens fontanus/2.png"
+    ],
+    "desc": {
+      "tipo": "musgo",
+      "origen": "",
+      "crecimiento": "lento",
+      "altura": "3 - 5 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "difícil"
+    }
+  },
+  "Glossostigma elatinoides": {
+    "imgs": [
+      "/plants/img/Glossostigma elatinoides/0.png",
+      "/plants/img/Glossostigma elatinoides/1.png",
+      "/plants/img/Glossostigma elatinoides/2.png",
+      "/plants/img/Glossostigma elatinoides/3.png",
+      "/plants/img/Glossostigma elatinoides/7.png"
+    ],
+    "desc": {
+      "tipo": "tapizante",
+      "origen": "australia",
+      "crecimiento": "rápido",
+      "altura": "3 - 5 cm",
+      "luz": "alta",
+      "co2": "alto",
+      "dificultad": "difícil"
+    }
+  },
+  "Gratiola viscidula": {
+    "imgs": [
+      "/plants/img/Gratiola viscidula/0.png",
+      "/plants/img/Gratiola viscidula/1.png",
+      "/plants/img/Gratiola viscidula/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "north america",
+      "crecimiento": "lento",
+      "altura": "3 - 10 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Helanthium bolivianum Quadricostatus": {
+    "imgs": [
+      "/plants/img/Helanthium bolivianum Quadricostatus/0.png",
+      "/plants/img/Helanthium bolivianum Quadricostatus/1.png",
+      "/plants/img/Helanthium bolivianum Quadricostatus/2.png",
+      "/plants/img/Helanthium bolivianum Quadricostatus/3.png",
+      "/plants/img/Helanthium bolivianum Quadricostatus/7.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "south america",
+      "crecimiento": "rápido",
+      "altura": "10 - 15 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Helanthium tenellum Green": {
+    "imgs": [
+      "/plants/img/Helanthium tenellum Green/0.png",
+      "/plants/img/Helanthium tenellum Green/1.png",
+      "/plants/img/Helanthium tenellum Green/2.png"
+    ],
+    "desc": {
+      "tipo": "tapizante",
+      "origen": "cultivar",
+      "crecimiento": "lento",
+      "altura": "5 - 15 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Hemianthus callitrichoides Cuba": {
+    "imgs": [
+      "/plants/img/Hemianthus callitrichoides Cuba/0.png",
+      "/plants/img/Hemianthus callitrichoides Cuba/1.png",
+      "/plants/img/Hemianthus callitrichoides Cuba/2.png"
+    ],
+    "desc": {
+      "tipo": "tapizante",
+      "origen": "north america",
+      "crecimiento": "medio",
+      "altura": "3 - 5 cm",
+      "luz": "alta",
+      "co2": "alto",
+      "dificultad": "difícil"
+    }
+  },
+  "Hemianthus micranthemoides": {
+    "imgs": [
+      "/plants/img/Hemianthus micranthemoides/0.png",
+      "/plants/img/Hemianthus micranthemoides/1.png",
+      "/plants/img/Hemianthus micranthemoides/2.png",
+      "/plants/img/Hemianthus micranthemoides/3.png",
+      "/plants/img/Hemianthus micranthemoides/6.png"
+    ],
+    "desc": {
+      "tipo": "tapizante",
+      "origen": "north america",
+      "crecimiento": "medio",
+      "altura": "5 - 15 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "difícil"
+    }
+  },
+  "Heteranthera zosterifolia": {
+    "imgs": [
+      "/plants/img/Heteranthera zosterifolia/0.png",
+      "/plants/img/Heteranthera zosterifolia/1.png",
+      "/plants/img/Heteranthera zosterifolia/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "south america",
+      "crecimiento": "rápido",
+      "altura": "20 - 30 cm",
+      "luz": "baja",
+      "co2": "medio",
+      "dificultad": "fácil"
+    }
+  },
+  "Hottonia palustris": {
+    "imgs": [
+      "/plants/img/Hottonia palustris/0.png",
+      "/plants/img/Hottonia palustris/1.png",
+      "/plants/img/Hottonia palustris/2.png",
+      "/plants/img/Hottonia palustris/3.png",
+      "/plants/img/Hottonia palustris/7.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "europe/asia",
+      "crecimiento": "medio",
+      "altura": "10 - 20 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Hydrocotyle tripartita": {
+    "imgs": [
+      "/plants/img/Hydrocotyle tripartita/0.png",
+      "/plants/img/Hydrocotyle tripartita/1.png",
+      "/plants/img/Hydrocotyle tripartita/2.png",
+      "/plants/img/Hydrocotyle tripartita/3.png",
+      "/plants/img/Hydrocotyle tripartita/6.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "asia",
+      "crecimiento": "rápido",
+      "altura": "5 - 5 cm",
+      "luz": "media",
+      "co2": "bajo",
+      "dificultad": "media"
+    }
+  },
+  "Hydrocotyle verticillata": {
+    "imgs": [
+      "/plants/img/Hydrocotyle verticillata/0.png",
+      "/plants/img/Hydrocotyle verticillata/1.png",
+      "/plants/img/Hydrocotyle verticillata/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "south america",
+      "crecimiento": "medio",
+      "altura": "3 - 10 cm",
+      "luz": "alta",
+      "co2": "medio",
+      "dificultad": "difícil"
+    }
+  },
+  "Hygrophila corymbosa": {
+    "imgs": [
+      "/plants/img/Hygrophila corymbosa/0.png",
+      "/plants/img/Hygrophila corymbosa/1.png",
+      "/plants/img/Hygrophila corymbosa/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "asia",
+      "crecimiento": "rápido",
+      "altura": "20 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Hygrophila corymbosa Compact": {
+    "imgs": [
+      "/plants/img/Hygrophila corymbosa Compact/0.png",
+      "/plants/img/Hygrophila corymbosa Compact/1.png",
+      "/plants/img/Hygrophila corymbosa Compact/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "10 - 15 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Hygrophila corymbosa Siamensis": {
+    "imgs": [
+      "/plants/img/Hygrophila corymbosa Siamensis/0.png",
+      "/plants/img/Hygrophila corymbosa Siamensis/1.png",
+      "/plants/img/Hygrophila corymbosa Siamensis/2.png",
+      "/plants/img/Hygrophila corymbosa Siamensis/6.png",
+      "/plants/img/Hygrophila corymbosa Siamensis/7.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "asia",
+      "crecimiento": "rápido",
+      "altura": "15 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Hygrophila corymbosa Siamensis 53B": {
+    "imgs": [
+      "/plants/img/Hygrophila corymbosa Siamensis 53B/0.png",
+      "/plants/img/Hygrophila corymbosa Siamensis 53B/1.png",
+      "/plants/img/Hygrophila corymbosa Siamensis 53B/12.png",
+      "/plants/img/Hygrophila corymbosa Siamensis 53B/2.png",
+      "/plants/img/Hygrophila corymbosa Siamensis 53B/3.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "15 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Hygrophila costata": {
+    "imgs": [
+      "/plants/img/Hygrophila costata/0.png",
+      "/plants/img/Hygrophila costata/1.png",
+      "/plants/img/Hygrophila costata/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "south america",
+      "crecimiento": "rápido",
+      "altura": "20 - 30 cm",
+      "luz": "media",
+      "co2": "bajo",
+      "dificultad": "media"
+    }
+  },
+  "Hygrophila difformis": {
+    "imgs": [
+      "/plants/img/Hygrophila difformis/0.png",
+      "/plants/img/Hygrophila difformis/1.png",
+      "/plants/img/Hygrophila difformis/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "asia",
+      "crecimiento": "rápido",
+      "altura": "20 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Hygrophila lancea Araguaia": {
+    "imgs": [
+      "/plants/img/Hygrophila lancea Araguaia/0.png",
+      "/plants/img/Hygrophila lancea Araguaia/1.png",
+      "/plants/img/Hygrophila lancea Araguaia/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "10 - 20 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Hygrophila pinnatifida": {
+    "imgs": [
+      "/plants/img/Hygrophila pinnatifida/0.png",
+      "/plants/img/Hygrophila pinnatifida/1.png",
+      "/plants/img/Hygrophila pinnatifida/2.png",
+      "/plants/img/Hygrophila pinnatifida/3.png",
+      "/plants/img/Hygrophila pinnatifida/6.png",
+      "/plants/img/Hygrophila pinnatifida/8.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "15 - 30 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Hygrophila polysperma": {
+    "imgs": [
+      "/plants/img/Hygrophila polysperma/0.png",
+      "/plants/img/Hygrophila polysperma/1.png",
+      "/plants/img/Hygrophila polysperma/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "asia",
+      "crecimiento": "rápido",
+      "altura": "20 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Hygrophila polysperma Rosanervig": {
+    "imgs": [
+      "/plants/img/Hygrophila polysperma Rosanervig/0.png",
+      "/plants/img/Hygrophila polysperma Rosanervig/1.png",
+      "/plants/img/Hygrophila polysperma Rosanervig/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "cultivar",
+      "crecimiento": "medio",
+      "altura": "20 - 30 cm",
+      "luz": "baja",
+      "co2": "medio",
+      "dificultad": "fácil"
+    }
+  },
+  "Juncus repens": {
+    "imgs": [
+      "/plants/img/Juncus repens/0.png",
+      "/plants/img/Juncus repens/1.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "north america",
+      "crecimiento": "medio",
+      "altura": "10 - 20 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Lagenandra meeboldii Red": {
+    "imgs": [
+      "/plants/img/Lagenandra meeboldii Red/0.png",
+      "/plants/img/Lagenandra meeboldii Red/1.png",
+      "/plants/img/Lagenandra meeboldii Red/2.png"
+    ],
+    "desc": {
+      "tipo": "roseta",
+      "origen": "asia",
+      "crecimiento": "lento",
+      "altura": "10 - 20 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Leptodictyum riparium": {
+    "imgs": [
+      "/plants/img/Leptodictyum riparium/0.png",
+      "/plants/img/Leptodictyum riparium/1.png",
+      "/plants/img/Leptodictyum riparium/2.png"
+    ],
+    "desc": {
+      "tipo": "musgo",
+      "origen": "cosmopolitan",
+      "crecimiento": "medio",
+      "altura": "3 - 10 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Lilaeopsis brasiliensis": {
+    "imgs": [
+      "/plants/img/Lilaeopsis brasiliensis/0.png",
+      "/plants/img/Lilaeopsis brasiliensis/1.png",
+      "/plants/img/Lilaeopsis brasiliensis/3.png",
+      "/plants/img/Lilaeopsis brasiliensis/6.png",
+      "/plants/img/Lilaeopsis brasiliensis/7.png"
+    ],
+    "desc": {
+      "tipo": "estolones",
+      "origen": "south america",
+      "crecimiento": "lento",
+      "altura": "3 - 5 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "fácil"
+    }
+  },
+  "Lilaeopsis mauritiana": {
+    "imgs": [
+      "/plants/img/Lilaeopsis mauritiana/0.png",
+      "/plants/img/Lilaeopsis mauritiana/1.png",
+      "/plants/img/Lilaeopsis mauritiana/2.png"
+    ],
+    "desc": {
+      "tipo": "estolones",
+      "origen": "africa",
+      "crecimiento": "lento",
+      "altura": "5 - 10 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Lilaeopsis novae-zelandiae": {
+    "imgs": [
+      "/plants/img/Lilaeopsis novae-zelandiae/0.png",
+      "/plants/img/Lilaeopsis novae-zelandiae/1.png",
+      "/plants/img/Lilaeopsis novae-zelandiae/2.png"
+    ],
+    "desc": {
+      "tipo": "tapizante",
+      "origen": "cosmopolitan",
+      "crecimiento": "",
+      "altura": "3 - 5 cm",
+      "luz": "",
+      "co2": "",
+      "dificultad": "fácil"
+    }
+  },
+  "Limnobium laevigatum": {
+    "imgs": [
+      "/plants/img/Limnobium laevigatum/0.png",
+      "/plants/img/Limnobium laevigatum/1.png",
+      "/plants/img/Limnobium laevigatum/2.png"
+    ],
+    "desc": {
+      "tipo": "flotante",
+      "origen": "south america",
+      "crecimiento": "medio",
+      "altura": "3 - 5 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Limnophila aquatica": {
+    "imgs": [
+      "/plants/img/Limnophila aquatica/0.png",
+      "/plants/img/Limnophila aquatica/1.png",
+      "/plants/img/Limnophila aquatica/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "asia",
+      "crecimiento": "rápido",
+      "altura": "20 - 30 cm",
+      "luz": "media",
+      "co2": "bajo",
+      "dificultad": "media"
+    }
+  },
+  "Limnophila hippuridoides": {
+    "imgs": [
+      "/plants/img/Limnophila hippuridoides/0.png",
+      "/plants/img/Limnophila hippuridoides/1.png",
+      "/plants/img/Limnophila hippuridoides/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "20 - 30 cm",
+      "luz": "media",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Limnophila sessiliflora": {
+    "imgs": [
+      "/plants/img/Limnophila sessiliflora/0.png",
+      "/plants/img/Limnophila sessiliflora/1.png",
+      "/plants/img/Limnophila sessiliflora/12.png",
+      "/plants/img/Limnophila sessiliflora/2.png",
+      "/plants/img/Limnophila sessiliflora/3.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "asia",
+      "crecimiento": "rápido",
+      "altura": "15 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Lindernia rotundifolia": {
+    "imgs": [
+      "/plants/img/Lindernia rotundifolia/0.png",
+      "/plants/img/Lindernia rotundifolia/1.png",
+      "/plants/img/Lindernia rotundifolia/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "asia",
+      "crecimiento": "rápido",
+      "altura": "15 - 30 cm",
+      "luz": "baja",
+      "co2": "medio",
+      "dificultad": "fácil"
+    }
+  },
+  "Littorella uniflora": {
+    "imgs": [
+      "/plants/img/Littorella uniflora/0.png",
+      "/plants/img/Littorella uniflora/1.png",
+      "/plants/img/Littorella uniflora/2.png"
+    ],
+    "desc": {
+      "tipo": "estolones",
+      "origen": "cosmopolitan",
+      "crecimiento": "lento",
+      "altura": "3 - 5 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Lobelia cardinalis": {
+    "imgs": [
+      "/plants/img/Lobelia cardinalis/0.png",
+      "/plants/img/Lobelia cardinalis/1.png",
+      "/plants/img/Lobelia cardinalis/11.png",
+      "/plants/img/Lobelia cardinalis/2.png",
+      "/plants/img/Lobelia cardinalis/3.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "north america",
+      "crecimiento": "medio",
+      "altura": "20 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Lobelia cardinalis Mini": {
+    "imgs": [
+      "/plants/img/Lobelia cardinalis Mini/0.png",
+      "/plants/img/Lobelia cardinalis Mini/1.png",
+      "/plants/img/Lobelia cardinalis Mini/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "north america",
+      "crecimiento": "medio",
+      "altura": "3 - 15 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Ludwigia glandulosa": {
+    "imgs": [
+      "/plants/img/Ludwigia glandulosa/0.png",
+      "/plants/img/Ludwigia glandulosa/1.png",
+      "/plants/img/Ludwigia glandulosa/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "north america",
+      "crecimiento": "medio",
+      "altura": "15 - 30 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Ludwigia inclinata Cuba": {
+    "imgs": [
+      "/plants/img/Ludwigia inclinata Cuba/1.png",
+      "/plants/img/Ludwigia inclinata Cuba/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "tropical",
+      "crecimiento": "rápido",
+      "altura": "5 - 20 cm",
+      "luz": "alta",
+      "co2": "alto",
+      "dificultad": "difícil"
+    }
+  },
+  "Ludwigia palustris Super Red": {
+    "imgs": [
+      "/plants/img/Ludwigia palustris Super Red/0.png",
+      "/plants/img/Ludwigia palustris Super Red/1.png",
+      "/plants/img/Ludwigia palustris Super Red/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "cosmopolitan",
+      "crecimiento": "medio",
+      "altura": "10 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Ludwigia repens Rubin": {
+    "imgs": [
+      "/plants/img/Ludwigia repens Rubin/0.png",
+      "/plants/img/Ludwigia repens Rubin/1.png",
+      "/plants/img/Ludwigia repens Rubin/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "north america",
+      "crecimiento": "medio",
+      "altura": "20 - 30 cm",
+      "luz": "media",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Marsilea hirsuta": {
+    "imgs": [
+      "/plants/img/Marsilea hirsuta/0.png",
+      "/plants/img/Marsilea hirsuta/1.png",
+      "/plants/img/Marsilea hirsuta/2.png"
+    ],
+    "desc": {
+      "tipo": "tapizante",
+      "origen": "australia",
+      "crecimiento": "medio",
+      "altura": "5 - 20 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Marsilea minuta": {
+    "imgs": [
+      "/plants/img/Marsilea minuta/0.png",
+      "/plants/img/Marsilea minuta/1.png",
+      "/plants/img/Marsilea minuta/2.png"
+    ],
+    "desc": {
+      "tipo": "tapizante",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "3 - 5 cm",
+      "luz": "media",
+      "co2": "bajo",
+      "dificultad": "media"
+    }
+  },
+  "Mayaca fluviatilis": {
+    "imgs": [
+      "/plants/img/Mayaca fluviatilis/0.png",
+      "/plants/img/Mayaca fluviatilis/1.png",
+      "/plants/img/Mayaca fluviatilis/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "north america",
+      "crecimiento": "rápido",
+      "altura": "15 - 30 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Micranthemum callitrichoides Cuba": {
+    "imgs": [
+      "/plants/img/Micranthemum callitrichoides Cuba/0.png",
+      "/plants/img/Micranthemum callitrichoides Cuba/1.png",
+      "/plants/img/Micranthemum callitrichoides Cuba/2.png"
+    ],
+    "desc": {
+      "tipo": "tapizante",
+      "origen": "north america",
+      "crecimiento": "medio",
+      "altura": "3 - 5 cm",
+      "luz": "alta",
+      "co2": "alto",
+      "dificultad": "difícil"
+    }
+  },
+  "Micranthemum tweediei Monte Carlo": {
+    "imgs": [
+      "/plants/img/Micranthemum tweediei Monte Carlo/0.png",
+      "/plants/img/Micranthemum tweediei Monte Carlo/1.png",
+      "/plants/img/Micranthemum tweediei Monte Carlo/2.png",
+      "/plants/img/Micranthemum tweediei Monte Carlo/3.png",
+      "/plants/img/Micranthemum tweediei Monte Carlo/6.png"
+    ],
+    "desc": {
+      "tipo": "tapizante",
+      "origen": "south america",
+      "crecimiento": "rápido",
+      "altura": "3 - 5 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Micranthemum umbrosum": {
+    "imgs": [
+      "/plants/img/Micranthemum umbrosum/0.png",
+      "/plants/img/Micranthemum umbrosum/1.png",
+      "/plants/img/Micranthemum umbrosum/2.png",
+      "/plants/img/Micranthemum umbrosum/3.png",
+      "/plants/img/Micranthemum umbrosum/7.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "north america",
+      "crecimiento": "rápido",
+      "altura": "10 - 15 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Microsorum pteropus": {
+    "imgs": [
+      "/plants/img/Microsorum pteropus/0.png",
+      "/plants/img/Microsorum pteropus/1.png",
+      "/plants/img/Microsorum pteropus/11.png",
+      "/plants/img/Microsorum pteropus/12.png",
+      "/plants/img/Microsorum pteropus/16.png",
+      "/plants/img/Microsorum pteropus/17.png",
+      "/plants/img/Microsorum pteropus/2.png",
+      "/plants/img/Microsorum pteropus/21.png",
+      "/plants/img/Microsorum pteropus/22.png",
+      "/plants/img/Microsorum pteropus/6.png",
+      "/plants/img/Microsorum pteropus/7.png"
+    ],
+    "desc": {
+      "tipo": "rizoma",
+      "origen": "asia",
+      "crecimiento": "lento",
+      "altura": "15 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Microsorum pteropus Narrow": {
+    "imgs": [
+      "/plants/img/Microsorum pteropus Narrow/0.png",
+      "/plants/img/Microsorum pteropus Narrow/1.png",
+      "/plants/img/Microsorum pteropus Narrow/11.png",
+      "/plants/img/Microsorum pteropus Narrow/16.png",
+      "/plants/img/Microsorum pteropus Narrow/3.png",
+      "/plants/img/Microsorum pteropus Narrow/6.png",
+      "/plants/img/Microsorum pteropus Narrow/7.png"
+    ],
+    "desc": {
+      "tipo": "rizoma",
+      "origen": "asia",
+      "crecimiento": "lento",
+      "altura": "10 - 20 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Microsorum pteropus Trident": {
+    "imgs": [
+      "/plants/img/Microsorum pteropus Trident/0.png",
+      "/plants/img/Microsorum pteropus Trident/1.png",
+      "/plants/img/Microsorum pteropus Trident/14.png",
+      "/plants/img/Microsorum pteropus Trident/2.png",
+      "/plants/img/Microsorum pteropus Trident/3.png",
+      "/plants/img/Microsorum pteropus Trident/6.png",
+      "/plants/img/Microsorum pteropus Trident/7.png",
+      "/plants/img/Microsorum pteropus Trident/9.png"
+    ],
+    "desc": {
+      "tipo": "rizoma",
+      "origen": "cultivar",
+      "crecimiento": "lento",
+      "altura": "15 - 20 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Microsorum pteropus Windeløv": {
+    "imgs": [
+      "/plants/img/Microsorum pteropus Windeløv/0.png",
+      "/plants/img/Microsorum pteropus Windeløv/1.png",
+      "/plants/img/Microsorum pteropus Windeløv/11.png",
+      "/plants/img/Microsorum pteropus Windeløv/12.png",
+      "/plants/img/Microsorum pteropus Windeløv/14.png",
+      "/plants/img/Microsorum pteropus Windeløv/19.png",
+      "/plants/img/Microsorum pteropus Windeløv/2.png",
+      "/plants/img/Microsorum pteropus Windeløv/3.png",
+      "/plants/img/Microsorum pteropus Windeløv/4.png",
+      "/plants/img/Microsorum pteropus Windeløv/6.png",
+      "/plants/img/Microsorum pteropus Windeløv/7.png"
+    ],
+    "desc": {
+      "tipo": "rizoma",
+      "origen": "cultivar",
+      "crecimiento": "lento",
+      "altura": "10 - 20 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Microsorum sp": {
+    "imgs": [
+      "/plants/img/Microsorum sp/0.png",
+      "/plants/img/Microsorum sp/1.png"
+    ],
+    "desc": {
+      "tipo": "rizoma",
+      "origen": "",
+      "crecimiento": "",
+      "altura": " - ",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Monosolenium tenerum": {
+    "imgs": [
+      "/plants/img/Monosolenium tenerum/0.png",
+      "/plants/img/Monosolenium tenerum/1.png",
+      "/plants/img/Monosolenium tenerum/2.png"
+    ],
+    "desc": {
+      "tipo": "musgo",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "3 - 5 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Murdannia keisak": {
+    "imgs": [
+      "/plants/img/Murdannia keisak/0.png",
+      "/plants/img/Murdannia keisak/1.png",
+      "/plants/img/Murdannia keisak/2.png",
+      "/plants/img/Murdannia keisak/3.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "asia",
+      "crecimiento": "rápido",
+      "altura": "5 - 20 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Myriophyllum mattogrossense": {
+    "imgs": [
+      "/plants/img/Myriophyllum mattogrossense/0.png",
+      "/plants/img/Myriophyllum mattogrossense/1.png",
+      "/plants/img/Myriophyllum mattogrossense/2.png",
+      "/plants/img/Myriophyllum mattogrossense/3.png",
+      "/plants/img/Myriophyllum mattogrossense/7.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "south america",
+      "crecimiento": "rápido",
+      "altura": "20 - 30 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Myriophyllum sp Guyana": {
+    "imgs": [
+      "/plants/img/Myriophyllum sp Guyana/0.png",
+      "/plants/img/Myriophyllum sp Guyana/1.png",
+      "/plants/img/Myriophyllum sp Guyana/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "south america",
+      "crecimiento": "medio",
+      "altura": "10 - 30 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Nesaea crassicaulis": {
+    "imgs": [
+      "/plants/img/Nesaea crassicaulis/0.png",
+      "/plants/img/Nesaea crassicaulis/1.png",
+      "/plants/img/Nesaea crassicaulis/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "africa",
+      "crecimiento": "medio",
+      "altura": "20 - 30 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Nymphaea lotus": {
+    "imgs": [
+      "/plants/img/Nymphaea lotus/0.png",
+      "/plants/img/Nymphaea lotus/1.png",
+      "/plants/img/Nymphaea lotus/2.png"
+    ],
+    "desc": {
+      "tipo": "bulbo",
+      "origen": "africa",
+      "crecimiento": "medio",
+      "altura": "20 - 30 cm",
+      "luz": "media",
+      "co2": "bajo",
+      "dificultad": "media"
+    }
+  },
+  "Nymphoides hydrophylla Taiwan": {
+    "imgs": [
+      "/plants/img/Nymphoides hydrophylla Taiwan/0.png",
+      "/plants/img/Nymphoides hydrophylla Taiwan/1.png",
+      "/plants/img/Nymphoides hydrophylla Taiwan/2.png",
+      "/plants/img/Nymphoides hydrophylla Taiwan/3.png",
+      "/plants/img/Nymphoides hydrophylla Taiwan/6.png"
+    ],
+    "desc": {
+      "tipo": "bulbo",
+      "origen": "asia",
+      "crecimiento": "rápido",
+      "altura": "15 - 30 cm",
+      "luz": "baja",
+      "co2": "medio",
+      "dificultad": "fácil"
+    }
+  },
+  "Phyllanthus fluitans": {
+    "imgs": [
+      "/plants/img/Phyllanthus fluitans/0.png",
+      "/plants/img/Phyllanthus fluitans/1.png",
+      "/plants/img/Phyllanthus fluitans/2.png"
+    ],
+    "desc": {
+      "tipo": "flotante",
+      "origen": "south america",
+      "crecimiento": "medio",
+      "altura": "3 - 5 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Pogostemon deccanensis": {
+    "imgs": [
+      "/plants/img/Pogostemon deccanensis/0.png",
+      "/plants/img/Pogostemon deccanensis/1.png",
+      "/plants/img/Pogostemon deccanensis/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "15 - 30 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Pogostemon erectus": {
+    "imgs": [
+      "/plants/img/Pogostemon erectus/0.png",
+      "/plants/img/Pogostemon erectus/1.png",
+      "/plants/img/Pogostemon erectus/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "15 - 30 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Pogostemon helferi": {
+    "imgs": [
+      "/plants/img/Pogostemon helferi/0.png",
+      "/plants/img/Pogostemon helferi/1.png",
+      "/plants/img/Pogostemon helferi/11.png",
+      "/plants/img/Pogostemon helferi/2.png",
+      "/plants/img/Pogostemon helferi/3.png",
+      "/plants/img/Pogostemon helferi/5.png",
+      "/plants/img/Pogostemon helferi/6.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "3 - 10 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Pogostemon stellatus": {
+    "imgs": [
+      "/plants/img/Pogostemon stellatus/0.png",
+      "/plants/img/Pogostemon stellatus/1.png",
+      "/plants/img/Pogostemon stellatus/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "15 - 30 cm",
+      "luz": "alta",
+      "co2": "alto",
+      "dificultad": "difícil"
+    }
+  },
+  "Proserpinaca palustris Cuba": {
+    "imgs": [
+      "/plants/img/Proserpinaca palustris Cuba/0.png",
+      "/plants/img/Proserpinaca palustris Cuba/1.png",
+      "/plants/img/Proserpinaca palustris Cuba/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "south america",
+      "crecimiento": "medio",
+      "altura": "10 - 30 cm",
+      "luz": "alta",
+      "co2": "alto",
+      "dificultad": "difícil"
+    }
+  },
+  "Ranunculus inundatus": {
+    "imgs": [
+      "/plants/img/Ranunculus inundatus/0.png",
+      "/plants/img/Ranunculus inundatus/1.png",
+      "/plants/img/Ranunculus inundatus/2.png"
+    ],
+    "desc": {
+      "tipo": "estolones",
+      "origen": "australia",
+      "crecimiento": "medio",
+      "altura": "5 - 5 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Riccardia chamedryfolia": {
+    "imgs": [
+      "/plants/img/Riccardia chamedryfolia/0.png",
+      "/plants/img/Riccardia chamedryfolia/1.png",
+      "/plants/img/Riccardia chamedryfolia/2.png"
+    ],
+    "desc": {
+      "tipo": "musgo",
+      "origen": "asia",
+      "crecimiento": "lento",
+      "altura": "3 - 5 cm",
+      "luz": "alta",
+      "co2": "medio",
+      "dificultad": "difícil"
+    }
+  },
+  "Riccia fluitans": {
+    "imgs": [
+      "/plants/img/Riccia fluitans/0.png",
+      "/plants/img/Riccia fluitans/1.png",
+      "/plants/img/Riccia fluitans/2.png"
+    ],
+    "desc": {
+      "tipo": "musgo",
+      "origen": "cosmopolitan",
+      "crecimiento": "medio",
+      "altura": "3 - 5 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Rotala indica Bonsai": {
+    "imgs": [
+      "/plants/img/Rotala indica Bonsai/0.png",
+      "/plants/img/Rotala indica Bonsai/1.png",
+      "/plants/img/Rotala indica Bonsai/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "cultivar",
+      "crecimiento": "lento",
+      "altura": "5 - 20 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Rotala macrandra": {
+    "imgs": [
+      "/plants/img/Rotala macrandra/0.png",
+      "/plants/img/Rotala macrandra/1.png",
+      "/plants/img/Rotala macrandra/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "20 - 30 cm",
+      "luz": "alta",
+      "co2": "alto",
+      "dificultad": "difícil"
+    }
+  },
+  "Rotala rotundifolia": {
+    "imgs": [
+      "/plants/img/Rotala rotundifolia/0.png",
+      "/plants/img/Rotala rotundifolia/1.png",
+      "/plants/img/Rotala rotundifolia/10.png",
+      "/plants/img/Rotala rotundifolia/2.png",
+      "/plants/img/Rotala rotundifolia/3.png",
+      "/plants/img/Rotala rotundifolia/5.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "15 - 30 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Rotala rotundifolia Green": {
+    "imgs": [
+      "/plants/img/Rotala rotundifolia Green/0.png",
+      "/plants/img/Rotala rotundifolia Green/1.png",
+      "/plants/img/Rotala rotundifolia Green/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "asia",
+      "crecimiento": "rápido",
+      "altura": "20 - 30 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Rotala rotundifolia Hra": {
+    "imgs": [
+      "/plants/img/Rotala rotundifolia Hra/0.png",
+      "/plants/img/Rotala rotundifolia Hra/1.png",
+      "/plants/img/Rotala rotundifolia Hra/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "asia",
+      "crecimiento": "rápido",
+      "altura": "3 - 20 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Rotala wallichii": {
+    "imgs": [
+      "/plants/img/Rotala wallichii/0.png",
+      "/plants/img/Rotala wallichii/1.png",
+      "/plants/img/Rotala wallichii/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "10 - 30 cm",
+      "luz": "alta",
+      "co2": "alto",
+      "dificultad": "difícil"
+    }
+  },
+  "Sagittaria subulata": {
+    "imgs": [
+      "/plants/img/Sagittaria subulata/0.png",
+      "/plants/img/Sagittaria subulata/1.png",
+      "/plants/img/Sagittaria subulata/12.png",
+      "/plants/img/Sagittaria subulata/3.png",
+      "/plants/img/Sagittaria subulata/6.png",
+      "/plants/img/Sagittaria subulata/7.png"
+    ],
+    "desc": {
+      "tipo": "estolones",
+      "origen": "south america",
+      "crecimiento": "rápido",
+      "altura": "5 - 30 cm",
+      "luz": "baja",
+      "co2": "medio",
+      "dificultad": "fácil"
+    }
+  },
+  "Salvinia auriculata": {
+    "imgs": [
+      "/plants/img/Salvinia auriculata/0.png",
+      "/plants/img/Salvinia auriculata/1.png",
+      "/plants/img/Salvinia auriculata/2.png"
+    ],
+    "desc": {
+      "tipo": "flotante",
+      "origen": "cosmopolitan",
+      "crecimiento": "rápido",
+      "altura": "3 - 5 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Shinnersia rivularis Weiss-Grün": {
+    "imgs": [
+      "/plants/img/Shinnersia rivularis Weiss-Grün/0.png",
+      "/plants/img/Shinnersia rivularis Weiss-Grün/1.png",
+      "/plants/img/Shinnersia rivularis Weiss-Grün/2.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "cultivar",
+      "crecimiento": "rápido",
+      "altura": "10 - 30 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "media"
+    }
+  },
+  "Staurogyne repens": {
+    "imgs": [
+      "/plants/img/Staurogyne repens/0.png",
+      "/plants/img/Staurogyne repens/1.png",
+      "/plants/img/Staurogyne repens/11.png",
+      "/plants/img/Staurogyne repens/3.png",
+      "/plants/img/Staurogyne repens/4.png",
+      "/plants/img/Staurogyne repens/5.png",
+      "/plants/img/Staurogyne repens/6.png"
+    ],
+    "desc": {
+      "tipo": "tallo",
+      "origen": "south america",
+      "crecimiento": "medio",
+      "altura": "3 - 10 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Taxiphyllum alternans Taiwan Moss": {
+    "imgs": [
+      "/plants/img/Taxiphyllum alternans Taiwan Moss/0.png",
+      "/plants/img/Taxiphyllum alternans Taiwan Moss/1.png",
+      "/plants/img/Taxiphyllum alternans Taiwan Moss/2.png"
+    ],
+    "desc": {
+      "tipo": "musgo",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "3 - 10 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Taxiphyllum barbieri": {
+    "imgs": [
+      "/plants/img/Taxiphyllum barbieri/0.png",
+      "/plants/img/Taxiphyllum barbieri/1.png",
+      "/plants/img/Taxiphyllum barbieri/10.png",
+      "/plants/img/Taxiphyllum barbieri/11.png",
+      "/plants/img/Taxiphyllum barbieri/2.png",
+      "/plants/img/Taxiphyllum barbieri/5.png",
+      "/plants/img/Taxiphyllum barbieri/6.png"
+    ],
+    "desc": {
+      "tipo": "musgo",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "3 - 10 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Taxiphyllum Flame": {
+    "imgs": [
+      "/plants/img/Taxiphyllum Flame/0.png",
+      "/plants/img/Taxiphyllum Flame/1.png",
+      "/plants/img/Taxiphyllum Flame/2.png"
+    ],
+    "desc": {
+      "tipo": "musgo",
+      "origen": "asia",
+      "crecimiento": "lento",
+      "altura": "3 - 10 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "media"
+    }
+  },
+  "Taxiphyllum Spiky": {
+    "imgs": [
+      "/plants/img/Taxiphyllum Spiky/0.png",
+      "/plants/img/Taxiphyllum Spiky/1.png",
+      "/plants/img/Taxiphyllum Spiky/2.png",
+      "/plants/img/Taxiphyllum Spiky/4.png",
+      "/plants/img/Taxiphyllum Spiky/5.png"
+    ],
+    "desc": {
+      "tipo": "musgo",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "3 - 10 cm",
+      "luz": "baja",
+      "co2": "bajo",
+      "dificultad": "fácil"
+    }
+  },
+  "Utricularia graminifolia": {
+    "imgs": [
+      "/plants/img/Utricularia graminifolia/0.png",
+      "/plants/img/Utricularia graminifolia/1.png",
+      "/plants/img/Utricularia graminifolia/2.png"
+    ],
+    "desc": {
+      "tipo": "tapizante",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "3 - 10 cm",
+      "luz": "media",
+      "co2": "medio",
+      "dificultad": "difícil"
+    }
+  },
+  "Vesicularia ferriei Weeping": {
+    "imgs": [
+      "/plants/img/Vesicularia ferriei Weeping/0.png",
+      "/plants/img/Vesicularia ferriei Weeping/1.png",
+      "/plants/img/Vesicularia ferriei Weeping/2.png",
+      "/plants/img/Vesicularia ferriei Weeping/5.png",
+      "/plants/img/Vesicularia ferriei Weeping/6.png"
+    ],
+    "desc": {
+      "tipo": "musgo",
+      "origen": "asia",
+      "crecimiento": "medio",
+      "altura": "3 - 5 cm",
+      "luz": "media",
+      "co2": "bajo",
+      "dificultad": "media"
+    }
+  },
+  "Vesicularia montagnei Christmas": {
+    "imgs": [
+      "/plants/img/Vesicularia montagnei Christmas/0.png",
+      "/plants/img/Vesicularia montagnei Christmas/1.png",
+      "/plants/img/Vesicularia montagnei Christmas/2.png",
+      "/plants/img/Vesicularia montagnei Christmas/5.png",
+      "/plants/img/Vesicularia montagnei Christmas/6.png",
+      "/plants/img/Vesicularia montagnei Christmas/7.png"
+    ],
+    "desc": {
+      "tipo": "musgo",
+      "origen": "south america",
+      "crecimiento": "medio",
+      "altura": "3 - 5 cm",
+      "luz": "media",
+      "co2": "bajo",
+      "dificultad": "media"
+    }
+  },
+  "Vesicularia montagnei Christmas Moss": {
+    "imgs": [
+      "/plants/img/Vesicularia montagnei Christmas Moss/0.png",
+      "/plants/img/Vesicularia montagnei Christmas Moss/1.png",
+      "/plants/img/Vesicularia montagnei Christmas Moss/2.png"
+    ],
+    "desc": {
+      "tipo": "musgo",
+      "origen": "south america",
+      "crecimiento": "medio",
+      "altura": "3 - 5 cm",
+      "luz": "media",
+      "co2": "bajo",
+      "dificultad": "media"
+    }
+  }
+}

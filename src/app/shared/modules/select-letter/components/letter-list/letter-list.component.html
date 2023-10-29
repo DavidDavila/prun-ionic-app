@@ -1,0 +1,13 @@
+<nav [id]="id">
+  <ul (touchmove)="onDrag($event)">
+    <ng-container *ngFor="let letter of letterList">
+      <li
+        [ngClass]="{
+          selected: letter === (_selectLetterService.selectedtLetter$ | async)
+        }"
+        [attr.data-letter]="letter"
+        (click)="goToLetter(letter)"
+      ></li
+    ></ng-container>
+  </ul>
+</nav>

@@ -1,0 +1,25 @@
+<div
+  class="plant-item"
+  [routerLink]="[plant.name]"
+  routerLinkActive="router-link-active"
+  routerLinkActive="router-link-active"
+  [ngStyle]="{
+    'background-image': 'url(\'/assets' + plant.img.background + '\')'
+  }"
+>
+  <div class="img-container">
+    <img [src]="'/assets' + plant.img.presentation" alt="" loading="lazy" />
+  </div>
+  <div class="desc-container">
+    <span>
+      <p>{{ plant.tipo }}</p>
+      <span class="line"></span>
+    </span>
+    <p>{{ plant.name }}</p>
+  </div>
+  <div class="nav-container">
+    <button class="secondary">
+      <span class="icon icon-ios-arrow-forward"></span>
+    </button>
+  </div>
+</div>

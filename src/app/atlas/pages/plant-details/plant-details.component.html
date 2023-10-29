@@ -1,0 +1,60 @@
+<section id="plant-details" [@slideIn] [@slideOut]>
+  <header>
+    <button class="secondary big" (click)="close()">
+      <span class="icon icon-ios-arrow-back"></span>
+    </button>
+    <div class="fav-container">
+      <button class="primary big">
+        4<span class="icon icon-pagelines"></span>
+      </button>
+      <fav-button [plantName]="plantName"></fav-button>
+    </div>
+  </header>
+
+  <section>
+    <article>
+      <div class="slider">
+        <ng-container *ngFor="let img of plant.imgs">
+          <img [src]="'/assets' + img" alt=""
+        /></ng-container>
+      </div>
+    </article>
+  </section>
+  <div class="title-container">
+    <div class="dificulty-container">
+      <span class="dificulty" [ngClass]="plant.desc.dificultad"
+        >{{ plant.desc.dificultad }}
+      </span>
+    </div>
+
+    <div>
+      <h1>
+        <span>{{ title2 }}</span> {{ title1 }}
+      </h1>
+    </div>
+
+    <!-- <div class="prun-container">
+      <button class="primary">
+        4 <span class="icon icon-pagelines"></span>
+      </button>
+    </div> -->
+  </div>
+  <article>
+    <ul>
+      <ng-container
+        *ngFor="let prop of ['luz', 'co2', 'crecimiento', 'altura']"
+      >
+        <li>
+          <div>
+            <span class="icon" [class]="'icon-' + icons[prop]"></span>
+          </div>
+          <div>
+            <b>{{ prop }}</b>
+            <p>{{ plant.desc[prop] }}</p>
+          </div>
+        </li>
+      </ng-container>
+    </ul>
+  </article>
+  <div class="description-container"><p [innerHTML]="description"></p></div>
+</section>

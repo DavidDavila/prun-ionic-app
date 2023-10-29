@@ -1,0 +1,57 @@
+header#prun__header {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  padding: 16px;
+  background-color: white;
+  height: var(--ion-menu-height);
+  > nav {
+    height: 100%;
+    width: 100%;
+    display: inline-flex;
+    gap: 16px;
+
+    justify-content: space-between;
+    align-items: center;
+    .menu-container {
+    }
+    .title-container > span.icon.icon-logo {
+      height: 100%;
+      font-size: 3rem;
+      background: -webkit-linear-gradient(
+        var(--ion-color-medium) 20%,
+        var(--ion-color-primary) 100%
+      );
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .profile-container {
+      > img {
+        background-color: #ccc;
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+        overflow: hidden;
+        object-fit: cover;
+        object-position: center;
+      }
+    }
+    > div {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      .icon {
+        font-weight: 900;
+        font-size: 2.5rem;
+
+        &.icon-android-funnel {
+          border-radius: 4px;
+          padding: 8px;
+          font-size: 1.2rem;
+
+          border: 1px solid var(--ion-color-medium);
+        }
+      }
+    }
+  }
+}

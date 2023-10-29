@@ -1,0 +1,15 @@
+<h2>
+  Elige
+  <p>las plantas que vas a podar</p>
+</h2>
+<ul>
+  <ng-container *ngFor="let plant of plantList | keyvalue">
+    <li>
+      <app-prun-plant
+        [type]="plant.value.desc.tipo"
+        [name]="plant.key"
+        [img]="plant.value.imgs[1]"
+      ></app-prun-plant>
+    </li>
+  </ng-container>
+</ul>

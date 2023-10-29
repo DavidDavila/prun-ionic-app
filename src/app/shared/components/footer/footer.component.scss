@@ -1,0 +1,29 @@
+@import "mixins";
+footer {
+  font-size: vw(1);
+  text-transform: capitalize;
+  font-weight: 500;
+  position: relative;
+  width: 100%;
+  height: var(--ion-footer-height);
+  position: fixed;
+  bottom: 0;
+  .icon {
+    font-size: vw(22);
+    margin-bottom: vh(4);
+  }
+}
+.active {
+  color: var(--ion-color-tertiary);
+}
+
+.footer-item {
+  color: var(--ion-color-medium);
+  display: block;
+  padding-bottom: vh(16);
+  padding-top: vh(8);
+  font-size: vw(14);
+  .icon {
+    font-size: vw(24);
+  }
+}

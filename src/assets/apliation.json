@@ -1,0 +1,1258 @@
+{
+  "Eleocharis pusilla": {
+    "zona": "Frente",
+    "temperatura": "20-28 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "2-12 dGH",
+    "nutriente": "Hierro"
+  },
+  "Gratiola viscidula": {
+    "zona": "Trasera",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "3-8 dKH",
+    "gh": "4-12 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Helanthium bolivianum Quadricostatus": {
+    "zona": "Medio",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Helanthium tenellum Green": {
+    "zona": "Medio",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Hemianthus micranthemoides": {
+    "zona": "Frente",
+    "temperatura": "20-26 °C",
+    "ph": "5.0-7.5",
+    "kh": "0-8 dKH",
+    "gh": "0-14 dGH",
+    "nutriente": "Dióxido de carbono"
+  },
+  "Hottonia palustris": {
+    "zona": "Frente",
+    "temperatura": "15-26 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "4-14 dGH",
+    "nutriente": "Hierro"
+  },
+  "Hydrocotyle verticillata": {
+    "zona": "Superficie",
+    "temperatura": "15-30 °C",
+    "ph": "5.0-7.5",
+    "kh": "0-8 dKH",
+    "gh": "0-14 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Hygrophila difformis": {
+    "zona": "Medio",
+    "temperatura": "22-28 °C",
+    "ph": "5.0-8.0",
+    "kh": "2-12 dKH",
+    "gh": "3-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Hygrophila pinnatifida": {
+    "zona": "Trasera",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-8 dKH",
+    "gh": "2-12 dGH",
+    "nutriente": "Hierro"
+  },
+  "Hygrophila polysperma": {
+    "zona": "Medio",
+    "temperatura": "20-28 °C",
+    "ph": "5.0-8.0",
+    "kh": "2-10 dKH",
+    "gh": "3-18 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Lilaeopsis brasiliensis": {
+    "zona": "Frente",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Lobelia cardinalis": {
+    "zona": "Medio",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Ludwigia glandulosa": {
+    "zona": "Trasera",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "3-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Mayaca fluviatilis": {
+    "zona": "Medio",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "2-12 dGH",
+    "nutriente": "Potasio"
+  },
+  "Microsorum pteropus": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Nymphaea lotus": {
+    "zona": "Medio",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Hierro"
+  },
+  "Rotala indica Bonsai": {
+    "zona": "Medio",
+    "temperatura": "22-28 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Rotala macrandra": {
+    "zona": "Medio",
+    "temperatura": "22-28 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Rotala rotundifolia": {
+    "zona": "Medio",
+    "temperatura": "20-28 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Hierro"
+  },
+  "Rotala rotundifolia Green": {
+    "zona": "Medio",
+    "temperatura": "20-28 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Hierro"
+  },
+  "Rotala rotundifolia Hra": {
+    "zona": "Medio",
+    "temperatura": "20-28 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Hierro"
+  },
+  "Rotala wallichii": {
+    "zona": "Medio",
+    "temperatura": "22-28 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Sagittaria subulata": {
+    "zona": "Frente",
+    "temperatura": "18-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Salvinia auriculata": {
+    "zona": "Superficie",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-8 dKH",
+    "gh": "2-12 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Shinnersia rivularis Weiss-Grün": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Hierro"
+  },
+  "Staurogyne repens": {
+    "zona": "Frente",
+    "temperatura": "22-28 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Taxiphyllum alternans Taiwan Moss": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "20-28 °C",
+    "ph": "5.0-8.0",
+    "kh": "2-12 dKH",
+    "gh": "3-15 dGH",
+    "nutriente": "Potasio"
+  },
+  "Taxiphyllum barbieri": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "20-28 °C",
+    "ph": "5.0-8.0",
+    "kh": "2-12 dKH",
+    "gh": "3-15 dGH",
+    "nutriente": "Potasio"
+  },
+  "Taxiphyllum Flame": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "20-28 °C",
+    "ph": "5.0-8.0",
+    "kh": "2-12 dKH",
+    "gh": "3-15 dGH",
+    "nutriente": "Potasio"
+  },
+  "Taxiphyllum Spiky": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "20-28 °C",
+    "ph": "5.0-8.0",
+    "kh": "2-12 dKH",
+    "gh": "3-15 dGH",
+    "nutriente": "Potasio"
+  },
+  "Utricularia graminifolia": {
+    "zona": "Frente",
+    "temperatura": "20-28 °C",
+    "ph": "5.0-7.0",
+    "kh": "0-4 dKH",
+    "gh": "0-6 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Vesicularia ferriei Weeping": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "20-28 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Hierro"
+  },
+  "Vesicularia montagnei Christmas": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "20-28 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Aegagropila linnaei": {
+    "zona": "Superficie",
+    "temperatura": "6-20 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "6-20 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Alternanthera reineckii Mini": {
+    "zona": "Medio-Fondo",
+    "temperatura": "20-28 °C",
+    "ph": "5.0-7.0",
+    "kh": "2-8 dKH",
+    "gh": "4-12 dGH",
+    "nutriente": "Potasio"
+  },
+  "Alternanthera reineckii Pink": {
+    "zona": "Medio-Fondo",
+    "temperatura": "20-28 °C",
+    "ph": "5.0-7.0",
+    "kh": "2-8 dKH",
+    "gh": "4-12 dGH",
+    "nutriente": "Potasio"
+  },
+  "Alternanthera reineckii Rosanervig": {
+    "zona": "Medio-Fondo",
+    "temperatura": "20-28 °C",
+    "ph": "5.0-7.0",
+    "kh": "2-8 dKH",
+    "gh": "4-12 dGH",
+    "nutriente": "Potasio"
+  },
+  "Anubias barteri caladiifolia": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Anubias barteri Mini Coin": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Anubias barteri nana": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Anubias barteri Petite": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Anubias barteri sp": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Anubias barteri var. barteri": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Anubias barteri var. caladiifolia": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Anubias barteri var. Coffeifolia": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Anubias barteri var. glabra": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Anubias barteri var. nana": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Anubias barteri var. nana Large": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Anubias gracilis": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Aponogeton boivinianus": {
+    "zona": "Fondo",
+    "temperatura": "22-28 °C",
+    "ph": "6.5-7.5",
+    "kh": "2-15 dKH",
+    "gh": "2-20 dGH",
+    "nutriente": "Potasio"
+  },
+  "Aponogeton longiplumulosus": {
+    "zona": "Fondo",
+    "temperatura": "20-30 °C",
+    "ph": "6.5-7.5",
+    "kh": "2-15 dKH",
+    "gh": "2-20 dGH",
+    "nutriente": "Potasio"
+  },
+  "Aponogeton madagascariensis": {
+    "zona": "Fondo",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-15 dKH",
+    "gh": "2-20 dGH",
+    "nutriente": "Potasio"
+  },
+  "Aponogeton ulvaceus": {
+    "zona": "Fondo",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-15 dKH",
+    "gh": "2-20 dGH",
+    "nutriente": "Potasio"
+  },
+  "Bacopa australis": {
+    "zona": "Medio-Fondo",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "4-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Bacopa caroliniana": {
+    "zona": "Medio-Fondo",
+    "temperatura": "20-30 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Bacopa monnieri Compact": {
+    "zona": "Medio-Fondo",
+    "temperatura": "22-28 °C",
+    "ph": "5.5-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Blyxa japonica": {
+    "zona": "Frente",
+    "temperatura": "20-30 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "4-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Bolbitis heudelotii": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "22-28 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Bucephalandra Kedagang": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "22-28 °C",
+    "ph": "5.5-7.5",
+    "kh": "2-15 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Bucephalandra pygmaea Bukit Kelam": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "22-28 °C",
+    "ph": "5.5-7.5",
+    "kh": "2-15 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Bucephalandra pygmaea Dark Achilles": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "22-28 °C",
+    "ph": "5.5-7.5",
+    "kh": "2-15 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Bucephalandra pygmaea Metallic Blue": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "22-28 °C",
+    "ph": "5.5-7.5",
+    "kh": "2-15 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Bucephalandra sp": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "22-28 °C",
+    "ph": "5.5-7.5",
+    "kh": "2-15 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Bucephalandra sp. Wavy Leaf": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "22-28 °C",
+    "ph": "5.5-7.5",
+    "kh": "2-15 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Bucephalandra theia Green Leaf": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "22-28 °C",
+    "ph": "5.5-7.5",
+    "kh": "2-15 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Bucephalandra theia Pink Leaf": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "22-28 °C",
+    "ph": "5.5-7.5",
+    "kh": "2-15 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Bucephalandra theia Red Leaf": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "22-28 °C",
+    "ph": "5.5-7.5",
+    "kh": "2-15 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Bucephalandra theia Snow White Leaf": {
+    "zona": "Troncos/Rocas",
+    "temperatura": "22-28 °C",
+    "ph": "5.5-7.5",
+    "kh": "2-15 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Cabomba aquatica": {
+    "zona": "Medio-Fondo",
+    "temperatura": "20-28 °C",
+    "ph": "6.5-7.5",
+    "kh": "2-15 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Cardamine lyrata": {
+    "zona": "Frente",
+    "temperatura": "20-24 °C",
+    "ph": "5.5-7.5",
+    "kh": "2-10 dKH",
+    "gh": "4-10 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Ceratophyllum demersum Foxtail": {
+    "zona": "Medio-Fondo",
+    "temperatura": "15-30 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-15 dKH",
+    "gh": "2-20 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Ceratopteris thalictroides": {
+    "zona": "Fondo",
+    "temperatura": "20-30 °C",
+    "ph": "6.0-8.0",
+    "kh": "2-15 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Crinum calamistratum": {
+    "zona": "Fondo",
+    "temperatura": "22-28 °C",
+    "ph": "5.5-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-20 dGH",
+    "nutriente": "Potasio"
+  },
+  "Crinum thaianum": {
+    "zona": "Fondo",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-20 dGH",
+    "nutriente": "Potasio"
+  },
+  "Cryptocoryne albida Brown": {
+    "zona": "Fondo",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-15 dKH",
+    "gh": "2-20 dGH",
+    "nutriente": "Hierro"
+  },
+  "Cryptocoryne beckettii Petchii": {
+    "zona": "Fondo",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-15 dKH",
+    "gh": "2-20 dGH",
+    "nutriente": "Hierro"
+  },
+  "Cryptocoryne crispatula": {
+    "zona": "Fondo",
+    "temperatura": "20-30 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-15 dKH",
+    "gh": "2-20 dGH",
+    "nutriente": "Hierro"
+  },
+  "Cryptocoryne parva": {
+    "zona": "Frente",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-15 dKH",
+    "gh": "2-20 dGH",
+    "nutriente": "Hierro"
+  },
+  "Cryptocoryne undulata Broad Leaf": {
+    "zona": "Fondo",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-15 dKH",
+    "gh": "2-20 dGH",
+    "nutriente": "Hierro"
+  },
+  "Cryptocoryne usteriana": {
+    "zona": "Fondo",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-15 dKH",
+    "gh": "2-20 dGH",
+    "nutriente": "Hierro"
+  },
+  "Cryptocoryne wendtii Green": {
+    "zona": "Fondo",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-15 dKH",
+    "gh": "2-20 dGH",
+    "nutriente": "Hierro"
+  },
+  "Cryptocoryne wendtii Mi Oya": {
+    "zona": "Fondo",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-15 dKH",
+    "gh": "2-20 dGH",
+    "nutriente": "Hierro"
+  },
+  "Cryptocoryne wendtii Tropica": {
+    "zona": "Fondo",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-15 dKH",
+    "gh": "2-20 dGH",
+    "nutriente": "Hierro"
+  },
+  "Cryptocoryne x willisii": {
+    "zona": "Fondo",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-15 dKH",
+    "gh": "2-20 dGH",
+    "nutriente": "Hierro"
+  },
+  "Cyperus helferi": {
+    "zona": "Frente",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Echinodorus Aquartica": {
+    "zona": "Fondo",
+    "temperatura": "20-28 °C",
+    "ph": "6.5-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Echinodorus Barthii": {
+    "zona": "Fondo",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Echinodorus cordifolius Fluitans": {
+    "zona": "Fondo",
+    "temperatura": "20-28 °C",
+    "ph": "6.5-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Echinodorus grisebachii Bleherae": {
+    "zona": "Fondo",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Echinodorus Ozelot": {
+    "zona": "Fondo",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Echinodorus Ozelot Green": {
+    "zona": "Fondo",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Echinodorus palifolius": {
+    "zona": "Fondo",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Echinodorus Red Diamond": {
+    "zona": "Fondo",
+    "temperatura": "20-28 °C",
+    "ph": "6.5-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Echinodorus Reni": {
+    "zona": "Fondo",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Echinodorus Rosé": {
+    "zona": "Fondo",
+    "temperatura": "20-28 °C",
+    "ph": "6.5-7.5",
+    "kh": "2-12 dKH",
+    "gh": "4-18 dGH",
+    "nutriente": "Potasio"
+  },
+  "Egeria densa": {
+    "zona": "Medio-Fondo",
+    "temperatura": "20-28 °C",
+    "ph": "6.5-8.0",
+    "kh": "2-15 dKH",
+    "gh": "2-20 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Elatine hydropiper": {
+    "zona": "Frente",
+    "temperatura": "20-24 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Eleocharis acicularis": {
+    "zona": "Frente",
+    "temperatura": "20-26 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Eleocharis montevidensis": {
+    "zona": "Frente",
+    "temperatura": "20-26 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Eleocharis parvula": {
+    "zona": "Frente",
+    "temperatura": "20-26 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Eriocaulon cinereum": {
+    "zona": "Frente",
+    "temperatura": "22-26 °C",
+    "ph": "5.0-7.0",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Eriocaulon parkeri": {
+    "zona": "Frente",
+    "temperatura": "22-26 °C",
+    "ph": "5.0-7.0",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Eriocaulon setaceum": {
+    "zona": "Frente",
+    "temperatura": "22-26 °C",
+    "ph": "5.0-7.0",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Fissidens fontanus": {
+    "zona": "Medio-Fondo",
+    "temperatura": "20-26 °C",
+    "ph": "5.5-7.0",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Glossostigma elatinoides": {
+    "zona": "Frente",
+    "temperatura": "22-26 °C",
+    "ph": "5.5-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Hemianthus callitrichoides Cuba": {
+    "zona": "Frente",
+    "temperatura": "22-28 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Heteranthera zosterifolia": {
+    "zona": "Medio-Fondo",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Hierro"
+  },
+  "Hydrocotyle tripartita": {
+    "zona": "Medio-Frente",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Hygrophila corymbosa": {
+    "zona": "Fondo-Medio",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Potasio"
+  },
+  "Hygrophila corymbosa Compact": {
+    "zona": "Medio-Fondo",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Potasio"
+  },
+  "Hygrophila corymbosa Siamensis": {
+    "zona": "Medio-Fondo",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Potasio"
+  },
+  "Hygrophila corymbosa Siamensis 53B": {
+    "zona": "Medio-Fondo",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Potasio"
+  },
+  "Hygrophila costata": {
+    "zona": "Fondo-Medio",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Potasio"
+  },
+  "Hygrophila lancea Araguaia": {
+    "zona": "Medio-Frente",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Hygrophila polysperma Rosanervig": {
+    "zona": "Fondo-Medio",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Potasio"
+  },
+  "Juncus repens": {
+    "zona": "Frente",
+    "temperatura": "18-26 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Lagenandra meeboldii Red": {
+    "zona": "Medio-Frente",
+    "temperatura": "22-28 °C",
+    "ph": "5.0-7.0",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Hierro"
+  },
+  "Leptodictyum riparium": {
+    "zona": "Flotante",
+    "temperatura": "20-28 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Lilaeopsis mauritiana": {
+    "zona": "Frente",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Lilaeopsis novae-zelandiae": {
+    "zona": "Frente",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Limnobium laevigatum": {
+    "zona": "Flotante",
+    "temperatura": "20-30 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Limnophila aquatica": {
+    "zona": "Fondo",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Bucephalandra pygmaea Wavy Green": {
+    "zona": "Medio-Fondo",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Hierro"
+  },
+  "Bucephalandra sp Red": {
+    "zona": "Medio-Fondo",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Hierro"
+  },
+  "Limnophila hippuridoides": {
+    "zona": "Fondo-Medio",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Limnophila sessiliflora": {
+    "zona": "Fondo-Medio",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Lindernia rotundifolia": {
+    "zona": "Frente-Medio",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Littorella uniflora": {
+    "zona": "Frente",
+    "temperatura": "5-20 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "2-12 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Lobelia cardinalis Mini": {
+    "zona": "Medio-Frente",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Ludwigia inclinata Cuba": {
+    "zona": "Medio-Fondo",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Ludwigia palustris Super Red": {
+    "zona": "Medio-Fondo",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Hierro"
+  },
+  "Ludwigia repens Rubin": {
+    "zona": "Medio-Fondo",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Hierro"
+  },
+  "Marsilea hirsuta": {
+    "zona": "Frente-Medio",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Hierro"
+  },
+  "Marsilea minuta": {
+    "zona": "Frente-Medio",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Hierro"
+  },
+  "Micranthemum callitrichoides Cuba": {
+    "zona": "Frente",
+    "temperatura": "22-28 °C",
+    "ph": "5.0-7.5",
+    "kh": "0-8 dKH",
+    "gh": "0-14 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Micranthemum tweediei Monte Carlo": {
+    "zona": "Frente-Medio",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Micranthemum umbrosum": {
+    "zona": "Frente-Medio",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Microsorum pteropus Narrow": {
+    "zona": "Medio-Fondo",
+    "temperatura": "22-30 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-15 dKH",
+    "gh": "2-20 dGH",
+    "nutriente": "Hierro"
+  },
+  "Microsorum pteropus Trident": {
+    "zona": "Medio-Fondo",
+    "temperatura": "22-30 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-15 dKH",
+    "gh": "2-20 dGH",
+    "nutriente": "Hierro"
+  },
+  "Microsorum pteropus Windeløv": {
+    "zona": "Medio-Fondo",
+    "temperatura": "22-30 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-15 dKH",
+    "gh": "2-20 dGH",
+    "nutriente": "Hierro"
+  },
+  "Microsorum sp": {
+    "zona": "Medio-Fondo",
+    "temperatura": "22-30 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-15 dKH",
+    "gh": "2-20 dGH",
+    "nutriente": "Hierro"
+  },
+  "Monosolenium tenerum": {
+    "zona": "Frente",
+    "temperatura": "18-26 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-15 dKH",
+    "gh": "2-20 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Murdannia keisak": {
+    "zona": "Medio",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Hierro"
+  },
+  "Myriophyllum mattogrossense": {
+    "zona": "Medio-Fondo",
+    "temperatura": "22-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Myriophyllum sp Guyana": {
+    "zona": "Medio-Fondo",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Nesaea crassicaulis": {
+    "zona": "Frente-Medio",
+    "temperatura": "20-28 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Nymphoides hydrophylla Taiwan": {
+    "zona": "Medio-Fondo",
+    "temperatura": "20-28 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Phyllanthus fluitans": {
+    "zona": "Frente",
+    "temperatura": "20-28 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Pogostemon deccanensis": {
+    "zona": "Frente-Medio",
+    "temperatura": "22-28 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-15 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Hierro"
+  },
+  "Pogostemon erectus": {
+    "zona": "Medio-Fondo",
+    "temperatura": "22-28 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-15 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Hierro"
+  },
+  "Pogostemon helferi": {
+    "zona": "Medio-Frente",
+    "temperatura": "22-28 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-15 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Hierro"
+  },
+  "Pogostemon stellatus": {
+    "zona": "Medio-Fondo",
+    "temperatura": "20-28 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Hierro"
+  },
+  "Proserpinaca palustris Cuba": {
+    "zona": "Fondo",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Hierro"
+  },
+  "Ranunculus inundatus": {
+    "zona": "Frente",
+    "temperatura": "18-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-10 dKH",
+    "gh": "2-12 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Riccardia chamedryfolia": {
+    "zona": "Flotante",
+    "temperatura": "20-28 °C",
+    "ph": "5.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Hierro"
+  },
+  "Riccia fluitans": {
+    "zona": "Flotante",
+    "temperatura": "20-28 °C",
+    "ph": "6.0-7.5",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  },
+  "Vesicularia montagnei Christmas Moss": {
+    "zona": "Superficie-Medio",
+    "temperatura": "20-28 °C",
+    "ph": "5.0-8.0",
+    "kh": "2-12 dKH",
+    "gh": "2-15 dGH",
+    "nutriente": "Nitrógeno"
+  }
+}

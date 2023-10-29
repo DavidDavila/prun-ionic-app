@@ -1,0 +1,241 @@
+/*
+ * App Global CSS
+ * ----------------------------------------------------------------------------
+ * Put style rules here that you want to apply globally. These styles are for
+ * the entire app and not just one component. Additionally, this file can be
+ * used as an entry point to import other CSS/Sass files to be included in the
+ * output CSS.
+ * For more information on global stylesheets, visit the documentation:
+ * https://ionicframework.com/docs/layout/global-stylesheets
+ */
+
+/* Core CSS required for Ionic components to work properly */
+@import "@ionic/angular/css/core.css";
+
+/* Basic CSS for apps built with Ionic */
+@import "@ionic/angular/css/normalize.css";
+@import "@ionic/angular/css/structure.css";
+@import "@ionic/angular/css/typography.css";
+@import "@ionic/angular/css/display.css";
+
+/* Optional CSS utils that can be commented out */
+@import "@ionic/angular/css/padding.css";
+@import "@ionic/angular/css/float-elements.css";
+@import "@ionic/angular/css/text-alignment.css";
+@import "@ionic/angular/css/text-transformation.css";
+@import "@ionic/angular/css/flex-utils.css";
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import "mixins";
+:root {
+  --ion-color-background: #ecf5ce;
+  --ion-color-gray: #f2f5f7;
+  --ion-color-dark: #2f4858;
+  --ion-menu-height: 8vh;
+  --ion-footer-height: 8vh;
+}
+
+* {
+  box-sizing: border-box;
+  text-rendering: optimizeLegibility;
+  text-decoration: none;
+  outline: 0;
+  font-family: "Roboto", sans-serif;
+  user-select: none;
+  color: var(--ion-color-medium);
+}
+
+ul,
+li,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  > p {
+    font-weight: normal;
+  }
+}
+a {
+  color: var(--ion-color-primary);
+  font-size: inherit;
+}
+p {
+  font-size: vw(18);
+  line-height: 1.2;
+}
+h1 {
+  font-size: vw(19.2);
+  text-transform: uppercase;
+  font-weight: 900;
+}
+h2 {
+  font-size: vw(32);
+  font-weight: 600;
+}
+.icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: inherit;
+}
+input[type="text"] {
+  background-color: var(--ion-color-gray);
+  font-size: vw(20);
+  padding: vw(13);
+  border-radius: 8px;
+  width: 100%;
+  //border: 1.5px solid var(--ion-color-medium);
+  border: none;
+  // padding-left: 56px;
+  position: relative;
+
+  &::-webkit-input-placeholder {
+  }
+
+  &::-moz-placeholder {
+  }
+
+  &:-ms-input-placeholder {
+    /** notice that ie has only a single colon) */
+  }
+
+  &::-webkit-input-placeholder {
+  }
+
+  &::placeholder {
+  }
+}
+button {
+  border-radius: 4px;
+
+  padding: vw(8);
+  white-space: nowrap;
+  display: inline-flex;
+  background: white;
+  box-shadow: rgba(var(--ion-color-medium-rgb), 0.2) 0px 0px vw(16);
+  font-size: vw(20);
+  justify-content: center;
+  align-items: center;
+  &.primary {
+    font-size: vw(28.8);
+    font-weight: 600;
+    background: linear-gradient(145deg, #e1f6a7, #bdcf8c);
+  }
+  &.secondary {
+    color: var(--ion-color-light);
+    background: linear-gradient(145deg, #446b7f, #507f97);
+    //box-shadow: 30px 30px 60px #406578, -30px -30px 60px #5689a2;
+  }
+  &.tertiary {
+    //background: linear-gradient(145deg, #e3e3e3, #ffffff);
+    box-shadow: vw(30) vw(30) vw(30) #d6d6d6, vw(-30) vw(-30) vw(-60) #ffffff;
+  }
+  &.big {
+    font-size: vw(24);
+    &.primary {
+    }
+  }
+  &.text {
+    font-size: vw(18);
+    span {
+      font-size: inherit;
+    }
+  }
+}
+
+.height-0 {
+  max-height: 0;
+}
+
+.input-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-direction: column;
+  > label {
+    font-weight: 500;
+    margin-bottom: vh(16);
+    background: var(--ion-color-medium-tint);
+    color: white;
+    display: block;
+    width: 100%;
+    padding: vw(8);
+    border-radius: 4px;
+  }
+  label {
+    cursor: pointer;
+    text-transform: capitalize;
+  }
+  ul {
+    padding-left: vw(16);
+    > li {
+      margin-bottom: vh(4);
+      display: flex;
+      input {
+        padding-bottom: vh(8);
+        max-width: 0;
+        max-height: 0;
+        position: absolute;
+        z-index: -1;
+        pointer-events: none;
+        visibility: hidden;
+        &:checked {
+          & + label:before {
+            content: "\73";
+          }
+        }
+      }
+      label {
+        $size: vw(20);
+        height: $size;
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        gap: vw(8);
+        margin-bottom: vh(4);
+        &::before {
+          content: "";
+          width: $size;
+          height: $size;
+          border-radius: 4px;
+          border: 1px solid var(--ion-color-medium);
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          font-family: "untitled-font-14" !important;
+          font-style: normal !important;
+          font-weight: normal !important;
+          font-variant: normal !important;
+          text-transform: none !important;
+          speak: none;
+          -webkit-font-smoothing: antialiased;
+          color: var(--ion-color-medium);
+          background-color: white;
+        }
+      }
+    }
+  }
+}
+.slider {
+  display: flex;
+
+  width: 100%;
+  height: 100%;
+
+  scroll-snap-type: x mandatory;
+
+  overflow-x: scroll;
+  overflow-y: hidden;
+  img {
+    flex: 0 0 100%;
+    width: 100%;
+    object-fit: cover;
+
+    scroll-snap-align: center;
+  }
+}

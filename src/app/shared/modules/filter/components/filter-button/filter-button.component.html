@@ -1,0 +1,8 @@
+<button class="filter primary" (click)="toogleFilter()">
+  <span class="icon icon-android-options"></span>
+</button>
+<filter-aside
+  *ngIf="_filterService.isInView | async"
+  [filter]="filterAside"
+  (onFilterChanged)="onFilterChanged.emit($event)"
+></filter-aside>

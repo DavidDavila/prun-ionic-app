@@ -1,0 +1,11 @@
+{
+  "name": "Prun",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "08800918"
+}

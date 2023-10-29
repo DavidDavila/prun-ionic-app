@@ -1,0 +1,31 @@
+@import "mixins.scss";
+nav {
+  height: 100%;
+  background-color: white;
+  ul {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    li {
+      text-transform: uppercase;
+      flex: 1;
+      @include flexCenterCenter;
+      border-radius: 0 0.5rem 0.5rem 0;
+
+      &::before {
+        content: attr(data-letter);
+        @include flexCenterCenter;
+        inset: 0;
+        font-size: vw(16);
+      }
+      &.selected {
+        flex: 2;
+        background-color: var(--ion-color-medium);
+        &::before {
+          color: var(--ion-color-light);
+          font-size: vw(24);
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+<header id="prun__header">
+  <nav>
+    <div class="profile-container" (click)="loginService.logout()">
+      <img
+        [src]="
+          (loginService.user$ | async)?.photoURL ||
+          '/assets/img/user-placeholder.png'
+        "
+        alt=""
+      />
+    </div>
+    <div class="title-container">
+      <span class="icon icon-logo" (click)="loginService.login()"> </span>
+    </div>
+
+    <div class="menu-container" (click)="openMenu()">
+      <span class="icon icon-navicon"></span>
+    </div>
+  </nav>
+</header>

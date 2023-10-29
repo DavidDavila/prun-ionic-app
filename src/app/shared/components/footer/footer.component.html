@@ -1,0 +1,14 @@
+<footer>
+  <ion-tabs>
+    <ion-tab-bar slot="bottom">
+      <ng-container *ngFor="let item of footerData">
+        <ion-tab-button [routerLink]="item.link" routerLinkActive="active">
+          <a class="footer-item">
+            <span [class]="'icon icon-' + item.icon"></span>
+            {{ item.text }}
+          </a>
+        </ion-tab-button>
+      </ng-container>
+    </ion-tab-bar>
+  </ion-tabs>
+</footer>

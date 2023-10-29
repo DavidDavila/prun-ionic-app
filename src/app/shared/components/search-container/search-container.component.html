@@ -1,0 +1,7 @@
+<input
+  type="text"
+  [(ngModel)]="searchText"
+  (ngModelChange)="onSearchTextChanged.emit($event)"
+  class="icon icon-search"
+  [placeholder]="placeholder"
+/>

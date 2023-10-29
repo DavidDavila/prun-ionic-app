@@ -1,0 +1,15 @@
+$letter-list-size: 1.5;
+
+section {
+  height: calc(100vh - var(--ion-menu-height));
+  padding-top: var(--ion-menu-height);
+  display: flex;
+  select-letter-list {
+    height: 100%;
+    flex: $letter-list-size;
+  }
+  plant-list {
+    height: 100%;
+    flex: calc(12 - $letter-list-size);
+  }
+}
