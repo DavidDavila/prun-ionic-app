@@ -1,4 +1,15 @@
-@import "mixins.scss";
+@mixin flexCenterCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@function vh($px) {
+  @return $px * 100 / 900 * 1vh;
+}
+@function vw($px) {
+  @return $px * 100 / 415 * 1vw;
+}
+
 nav {
   height: 100%;
   background-color: white;
